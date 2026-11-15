@@ -1,9 +1,21 @@
-# Awesome Hackathon
+# Awesome Hackathon Resources
 <p align="center">
-  <img src="img/banner.png" alt="Awesome Hackathon" width="1280" />
+  <img src="img/banner.svg" alt="Awesome Hackathon Resources" width="1280" />
 </p>
 
 Tools and resources to help you build, design, and win hackathons! 🏆
+
+Every entry is checked against [CURATION.md](CURATION.md): it must be live, free to use, not a duplicate and useful in a time-boxed build. Then it is scored on speed, cost, demo impact, maturity and fit.
+
+## ⭐ Curator's Picks
+
+The highest-scoring additions (9/10). Start here when the clock is running:
+
+- **[Amicro](https://amicro.dev)** - Copy-paste motion components that make a demo feel finished
+- **[boneyard](https://boneyard.vercel.app)** - Real-looking loading states in one CLI run
+- **[Hallmark](https://usehallmark.com)** / **[Taste Skill](https://tasteskill.dev)** - Stop your coding agent from shipping generic-looking UI
+- **[Its Hover](https://itshover.com)** - Animated icons, zero design time
+- **[Thinking Orbs](https://www.thinkingorbs.com/)** - Polished "AI is thinking" states for any AI hack
 
 ## Table of Contents
 
@@ -55,6 +67,10 @@ Tools and resources to help you build, design, and win hackathons! 🏆
 5. [Project Management & Tracking](#project-management--tracking)
 6. [Quick Deployment & Hosting for Demos](#quick-deployment--hosting-for-demos)
 
+### More
+- [Related Awesome Lists](#related-awesome-lists)
+- [Contributing](#contributing)
+
 ---
 
 ## For Hackathon Participants 👨‍💻👩‍💻
@@ -72,6 +88,8 @@ Tools and resources to help you build, design, and win hackathons! 🏆
 - **[Claude Code](https://docs.anthropic.com/en/docs/claude-code)** - Agentic coding tool from Anthropic that operates in the terminal
 - **[Cursor](https://www.cursor.com/)** - AI-powered integrated development environment with advanced features
 - **[GitHub Copilot](https://github.com/features/copilot)** - AI pair programmer that suggests code completions and entire functions
+- **[Hallmark](https://usehallmark.com)** - Design skill for Claude Code, Codex and OpenCode that picks a theme, lays out the page and lints out AI-slop patterns
+- **[Taste Skill](https://tasteskill.dev)** - Design skill for coding agents with art directions from 247 curated sites and a real-browser check
 - **[Windsurf](https://codeium.com/windsurf)** - AI-powered code editor with real-time completion and suggestions
 
 ### APIs & Data Sources
@@ -180,10 +198,12 @@ Tools and resources to help you build, design, and win hackathons! 🏆
 ### Design & UI/UX
 - **[Adobe XD Free](https://www.adobe.com/products/xd.html)** - Lightweight design tool for wireframes and prototypes
 - **[APPLORE](https://applore.app/app-icon-generator)** - Free app icon export in every iOS, Android and web size, no sign-up
+- **[Atlassian Design System](https://atlassian.design/design-system)** - Tokens, components and Figma libraries for Atlassian Forge apps (Codegeist and other Atlassian hackathons)
 - **[Blender](https://www.blender.org/)** - Free and open-source 3D computer graphics software
 - **[Canva](https://www.canva.com/)** - Simple design tool with templates for mockups and presentations
 - **[Excalidraw](https://excalidraw.com/)** - Collaborative whiteboard for sketch-style diagrams
 - **[Figma](https://www.figma.com/)** - Collaborative design tool for wireframes and prototypes
+- **[Filee](https://filee.sh)** - Free, open-source offline file converter for Windows, macOS and Linux: drag images, PDFs, docs, video or audio onto a format, no upload
 - **[GIMP](https://www.gimp.org/)** - Open-source image editor comparable to Photoshop
 - **[InVision Freehand](https://www.invisionapp.com/freehand)** - Digital whiteboard for brainstorming
 - **[Kdenlive](https://kdenlive.org/)** - Professional-grade, open-source video editor
@@ -201,6 +221,7 @@ Tools and resources to help you build, design, and win hackathons! 🏆
 #### Icons
 - **[FaviconDL](https://favicondl.com/)** - Free favicon extractor and no-key API: extract available ICO/PNG/SVG/Apple touch icons and preserve their original size when possible
 - **[Geist Icons](https://geist-ui.dev/en-us/components/icons)** - Collection of icons used across Vercel products
+- **[Its Hover](https://itshover.com)** - 260+ open-source animated React icons built with Motion
 - **[Lucide Icons](https://lucide.dev/)** - Beautiful & consistent icon toolkit by the community
 - **[Phosphor Icons](https://phosphoricons.com/)** - Versatile icon family for interfaces and diagrams
 - **[Radix Icons](https://icons.radix-ui.com/)** - Open-source component library for development
@@ -224,9 +245,14 @@ Tools and resources to help you build, design, and win hackathons! 🏆
 - **[Vue.js](https://vuejs.org/)** - Lightweight, beginner-friendly framework for dynamic UIs
 
 #### UI Libraries
+- **[Amicro](https://amicro.dev)** - 170+ free copy-paste React micro-interaction components (buttons, loaders, carousels), installable via shadcn
+- **[boneyard](https://boneyard.vercel.app)** - Generates pixel-accurate skeleton screens from your real rendered UI with one CLI command
 - **[Cult UI](https://www.cult-ui.com)** - Ready-to-use React components, Shadcn compatible
 - **[Magic UI](https://magicui.design)** - 50+ free animated components for React and TypeScript
 - **[Shadcn UI](https://ui.shadcn.com/)** - Beautifully designed components made with Tailwind CSS
+- **[Skullet](https://skullet.lochie.me/)** - Skeleton states measured from sample data at runtime, no build step
+- **[Thinking Orbs](https://www.thinkingorbs.com/)** - Animated AI status indicators (thinking, searching, retrying) for React, JS and SwiftUI, MIT, 3.8 KB
+- **[UploadCN](https://uploadcn.dev/)** - shadcn file upload components with queues, retries, resumable transfers and any storage backend
 
 ### Game Development
 
@@ -320,15 +346,18 @@ Tools and resources to help you build, design, and win hackathons! 🏆
 
 ### Generators & Snippets
 - **[bg.ibelick](https://bg.ibelick.com)** - Collection of modern background snippets
+- **[delphitools](https://delphi.tools)** - Small browser-only utilities with no login, registration or data collection
 - **[Gradiently](https://gradienty.codes)** - Tailwind Gradient Generator for stunning visuals
 - **[Haikei](https://app.haikei.app)** - Web-based tool to generate unique SVG design assets
 - **[Scrollbar.app](https://scrollbar.app)** - Simple CSS scrollbar editor
 - **[Tailwind CSS Color Generator](https://uicolors.app/create)** - Generate Tailwind CSS color shades
+- **[Transitions.dev](https://transitions.dev/)** - 43+ crafted UI transitions plus an agent skill to drop them into your project
 - **[Vercel OG Image Playground](https://og-playground.vercel.app)** - Generate Open Graph images
 
 ### Inspiration & Ideas
 - **[CodeTrendy](https://codetrendy.com/)** - Curated directory of newly launched startups, SaaS and AI tools to browse for project ideas, with a free read-only MCP server
 - **[Evernote Design](https://evernote.design/)** - All-in-one bookmark links for designers
+- **[Landbook](https://land-book.com/)** - Hand-picked website design gallery, filterable by page type and industry
 - **[Saaspo](https://saaspo.com/)** - Best SaaS web design inspiration
 - **[saasui.design](https://saasui.design/)** - Top-tier SaaS application designs showcase
 - **[SCRNSHTS](https://scrnshts.club/)** - Hand-picked collection of app store design screenshots
@@ -402,10 +431,21 @@ Tools and resources to help you build, design, and win hackathons! 🏆
 
 ---
 
+## Related Awesome Lists
+- **[awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness)** - Curated list of awesome lists, grouped by language and topic
+- **[awesome-rust: Audio and Music](https://github.com/rust-unofficial/awesome-rust#audio-and-music)** - Rust audio apps and libraries (cpal, rodio, Symphonia) for game jams and audio hacks
+- **[sindresorhus/awesome](https://github.com/sindresorhus/awesome)** - The original index of awesome lists on every topic
+
+---
+
+## Contributing
+
+New resources are scored against [CURATION.md](CURATION.md). Add your entry and its score row to the evaluation log in the same PR.
+
+---
+
 ## Acknowledgement
 
-Game engines, frameworks, and tools from [awesome-gamejam](https://github.com/wujood/awesome-gamejam) were used to expand our Game Development section.
+Forked from [HappyHackingSpace/Awesome-Hackathon](https://github.com/HappyHackingSpace/Awesome-Hackathon). The original list and its structure are their work.
 
-
-
-![Made in love](img/hhs.svg)
+Game engines, frameworks, and tools from [awesome-gamejam](https://github.com/wujood/awesome-gamejam) were used to expand the Game Development section.
