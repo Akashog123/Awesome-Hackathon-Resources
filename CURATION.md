@@ -67,7 +67,7 @@ Re-check the list every quarter:
 | [Skullet](https://skullet.lochie.me) | 2 | 2 | 1 | 1 | 1 | 7 | Add → UI Libraries | Overlaps boneyard; differs: runtime, no build step |
 | [delphitools](https://delphi.tools) | 2 | 2 | 1 | 1 | 1 | 7 | Add → Generators & Snippets | Small no-login browser tools |
 | [Landbook](https://land-book.com) | 1 | 1 | 1 | 2 | 2 | 7 | Add → Inspiration & Ideas | Free gallery, PRO tier |
-| [Atlassian Design System](https://atlassian.design/design-system) | 1 | 2 | 1 | 2 | 1 | 7 | Add → Design & UI/UX | Only for Atlassian / Forge (Codegeist) builds |
+| [Atlassian Design System](https://atlassian.design/design-system) | 1 | 2 | 1 | 2 | 1 | 7 | Add → Design & UI/UX | Only for apps built on Atlassian products (Forge) |
 | [ascii-reveal](https://github.com/quanhoangindex/ascii-reveal) | 2 | 2 | 2 | 0 | 1 | 7 | Watchlist | Weeks old, one maintainer |
 | [posts.design](https://posts.design) | 1 | 2 | 1 | 1 | 1 | 6 | Watchlist | Social post inspiration; launch posts |
 | [The AI Design Guide](https://aidesign.guide) | 1 | 1 | 1 | 1 | 1 | 5 | Watchlist | Weekly guides, not a tool |
@@ -138,6 +138,33 @@ Every pick was re-checked rather than taken from its score:
 - **Open source** (Shadcn UI, Next.js, Tailwind CSS, Supabase, Expo, Excalidraw, Lucide, Magic UI, Godot, Phaser, LDtk, BeepBox, Gradio, Ollama, Public APIs, ScreenToGif, OBS Studio, Hallmark): none archived, all pushed between Aug and Nov 2026, all MIT, ISC, Apache-2.0, GPL-2.0 or MS-PL.
 - **Hosted, checked on pricing pages:** Vercel Hobby is free and can deploy without an account; Supabase has a free plan whose projects pause when inactive; Expo SDK is MIT and its free plan includes 15 Android and 15 iOS builds; itch.io lets you set a $0 price; Kaggle Datasets are free; Google AI Studio, OpenRouter and Stripe test mode were verified earlier.
 - **Fixes:** Expo moved from "Ship it live" to its own "Go mobile" row; ScreenToGif marked Windows-only; the intro now says the picks are hand-picked from the 9–10 scorers rather than "the highest scorers".
+
+### 2026-11-15 · Content verification and reclassification
+
+Every description written during this review was re-checked against its source page (pricing page, docs or README). 23 were corrected, including two that were wrong:
+- **Gradio:** HF Spaces is no longer free for Gradio apps; free accounts get up to 2 Gradio Spaces on ZeroGPU.
+- **Groq:** Llama models are now enterprise-only; the public models are GPT-OSS and Whisper.
+- **Claims removed because the source page doesn't state them:** "no card" (Neon), "built-in database" (Replit), "built on VS Code" (Cursor), "from a screenshot" (v0), "successor to Watson" (watsonx), the Codegeist mention (Atlassian), "open-licensed" (unDraw, whose license restricts redistribution), "preview URLs" (Vercel).
+- **Confirmed:** Google AI Studio free tier without billing, Cloudflare Workers 100k requests/day, AWS Lambda 1M requests/month, Firebase Functions needing Blaze, GameMaker free for non-commercial use, Unity Personal free, Streamlit Community Cloud free, Stripe test mode, MCP reference servers list, Playwright auto-wait and codegen, Penpot self-hosting, Public APIs (1,400 no-auth entries).
+
+**Reclassified** (each entry now sits where a participant would look first):
+
+| Resource | Moved to | Why |
+|---|---|---|
+| OpenAI API | AI & Machine Learning | LLM API, sits with the other model APIs |
+| Swagger UI | Testing & Quality Assurance | API docs/testing tool, not a data source |
+| Kaggle Datasets | APIs & Data Sources | a data source |
+| Looker Studio | Data Visualization | dashboard/visualization tool |
+| DBeaver Community | Database & Storage | database client |
+| Draw.io | Design & UI/UX | diagramming, next to Excalidraw |
+| v0 | AI Development Tools | AI app builder, next to Bolt |
+| Kdenlive | Pitch & Demo | video editor for demo videos |
+| ScreenToGif | Pitch & Demo | demo recording, not game marketing |
+| Pixilart | Graphics & Art Tools | pixel art editor |
+| Lunacy | Design & UI/UX | general design tool (Figma alternative) |
+| DeepMotion | Graphics & Art Tools | 3D animation generation |
+| Easy Releasy | Game Hosting & Marketing | itch.io page templates |
+| APPLORE | Generators & Snippets | app icon generator |
 
 ## Watchlist
 

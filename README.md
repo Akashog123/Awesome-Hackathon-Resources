@@ -60,16 +60,17 @@ Hand-picked from the 50 entries that score 9 or 10, one row per job. Each pick w
 ## Resources
 
 ### AI & Machine Learning
-- **[Google AI Studio](https://aistudio.google.com/)** 🟢 `10` - Prototype with Gemini models and get an API key with a free tier, no card needed
+- **[Google AI Studio](https://aistudio.google.com/)** 🟢 `10` - Prototype with Gemini models and get an API key on the free tier, no billing account needed
 - **[Google Colab](https://colab.research.google.com/)** 🟢 `9` - Free Jupyter notebook with GPU support for quick prototyping of ML models
-- **[Gradio](https://www.gradio.app/)** 🟢 `10` - Wrap any Python model in a shareable web demo in a few lines, with free hosting on Hugging Face Spaces
-- **[Groq](https://console.groq.com/)** 🟢 `9` - Very fast inference for open models (Llama, Qwen and others) with a free tier
+- **[Gradio](https://www.gradio.app/)** 🟢 `10` - Wrap any Python model in a web demo in a few lines; free Hugging Face accounts can host up to 2 Gradio Spaces on ZeroGPU
+- **[Groq](https://console.groq.com/)** 🟢 `9` - Very fast inference for open-weight models such as GPT-OSS and Whisper, with a free plan
 - **[Hugging Face Transformers](https://huggingface.co/docs/transformers/)** 🟡 `8` - Pre-trained NLP models, no need to train from scratch
-- **[IBM watsonx](https://www.ibm.com/products/watsonx)** ⚪ `5` - IBM's platform for foundation models, ML and AI agents (successor to Watson)
-- **[Ollama](https://ollama.com/)** 🟢 `9` - Run open LLMs locally with one command, so there are no API keys or rate limits on bad venue Wi-Fi
-- **[OpenRouter](https://openrouter.ai/)** 🟢 `9` - One OpenAI-compatible API for hundreds of models, including 25+ free ones
+- **[IBM watsonx](https://www.ibm.com/products/watsonx)** ⚪ `5` - IBM's enterprise AI portfolio for building AI apps, managing data and governing models
+- **[Ollama](https://ollama.com/)** 🟢 `9` - Run open models locally (or in Ollama's cloud) on macOS, Windows and Linux, so a bad venue Wi-Fi can't stop your demo
+- **[OpenAI API](https://developers.openai.com/api/docs/concepts)** ⚪ `7` - GPT models for text, vision, audio and agents (paid, usage-based)
+- **[OpenRouter](https://openrouter.ai/)** 🟢 `9` - One OpenAI-compatible API for many model providers, including 25+ free models
 - **[Replicate](https://replicate.com/)** 🟡 `8` - Run and fine-tune open-source models. Deploy custom models at scale
-- **[Runway](https://runway.com/)** 🟡 `7` - AI video and image generation for demo visuals and media hacks
+- **[Runway](https://runway.com/)** 🟡 `7` - Generate and edit video, images and audio with AI; free to try
 - **[Streamlit](https://streamlit.io/)** 🟢 `9` - Turn a Python script into an interactive data app, with free Community Cloud hosting
 - **[Teachable Machine](https://teachablemachine.withgoogle.com/)** 🟢 `9` - Train image, sound, and pose models in the browser without code
 - **[Vercel AI SDK](https://ai-sdk.dev/)** 🟢 `9` - Open-source TypeScript toolkit for streaming chat, tool calls and agents across any model provider
@@ -77,31 +78,31 @@ Hand-picked from the 50 entries that score 9 or 10, one row per job. Each pick w
 ### AI Development Tools
 - **[Bolt](https://bolt.new/)** 🟡 `8` - AI-powered web development agent for full-stack applications in browser
 - **[Claude Code](https://code.claude.com/docs/en/overview)** ⚪ `7` - Agentic coding tool from Anthropic that operates in the terminal
-- **[Cursor](https://www.cursor.com/)** 🟡 `7` - AI code editor built on VS Code with agent mode and codebase-aware chat
+- **[Cursor](https://www.cursor.com/)** 🟡 `7` - AI code editor with a built-in agent for multi-step coding tasks
 - **[Devin Desktop (formerly Windsurf)](https://devin.ai/desktop)** ⚪ `5` - Cognition's editor and command center for running coding agents locally or in the cloud
 - **[GitHub Copilot](https://github.com/features/copilot)** 🟡 `7` - AI pair programmer that suggests code completions and entire functions
 - **[Hallmark](https://usehallmark.com)** 🟢 `9` - Design skill for Claude Code, Codex and OpenCode that picks a theme, lays out the page and lints out AI-slop patterns
-- **[Replit](https://replit.com/)** 🟡 `7` - Browser IDE with an AI agent, built-in database and one-click deploys; free plan available
+- **[Replit](https://replit.com/)** 🟡 `7` - Browser workspace where an AI agent builds and publishes apps and sites; free mode available
 - **[Taste Skill](https://tasteskill.dev)** 🟢 `9` - Design skill for coding agents with art directions from 247 curated sites and a real-browser check
+- **[v0](https://v0.app/)** 🟡 `8` - Vercel's AI assistant for designing and building full-stack web apps from a prompt
 
 ### APIs & Data Sources
 - **[CoinGecko](https://docs.coingecko.com/)** 🟡 `7` - Cryptocurrency price, market, and developer/social data
 - **[CurlShot](https://curlshot.com/)** ⚪ `5` - Screenshot API: one GET request turns a URL into PNG, JPEG, WebP or PDF (POST for raw HTML), free plan of 100 screenshots/month
 - **[JsonPlaceholder](https://jsonplaceholder.typicode.com/)** 🟡 `7` - Fake online REST API for quick prototyping and testing
+- **[Kaggle Datasets](https://www.kaggle.com/datasets)** 🟢 `9` - Access open datasets for data-driven MVPs
 - **[Mapbox](https://www.mapbox.com/)** 🟡 `8` - Easy-to-use maps and geolocation service with generous free tier
 - **[Mockaroo](https://www.mockaroo.com/)** 🟡 `7` - Generate up to 1,000 rows of test data in multiple formats
 - **[NewsAPI](https://newsapi.org/)** 🟡 `7` - Free access to recent news data from various sources
-- **[OpenAI API](https://developers.openai.com/api/docs/concepts)** ⚪ `7` - GPT models for text, vision, audio and agents (paid, usage-based)
 - **[Public APIs](https://github.com/public-apis/public-apis)** 🟢 `9` - Huge categorized list of free public APIs, many with no auth required
 - **[RapidAPI](https://rapidapi.com/)** ⚪ `6` - API marketplace to quickly find and test external APIs
 - **[SheetDB](https://sheetdb.io/)** ⚪ `6` - Turns Google Sheets into a REST API for quick MVP data handling
 - **[Stripe test mode](https://docs.stripe.com/testing)** 🟢 `10` - Free sandbox payments with test cards, so you can demo a real checkout flow without moving money
-- **[Swagger UI](https://swagger.io/)** ⚪ `6` - Tool for automatically documenting and testing REST APIs
 - **[Twilio](https://www.twilio.com/)** 🟡 `7` - Simple API for sending SMS and making calls, free trial with credits
 
 ### Authentication & User Management
 - **[Auth0](https://auth0.com/)** ⚪ `6` - Authentication service with social and passwordless login support
-- **[Better Auth](https://www.better-auth.com/)** 🟡 `8` - Open-source TypeScript auth library with email, OAuth, 2FA and orgs, self-hosted in your own database
+- **[Better Auth](https://www.better-auth.com/)** 🟡 `8` - Open-source TypeScript auth framework with 2FA, passkeys, multi-tenancy and SSO that lives in your own codebase
 - **[Clerk](https://clerk.com/)** 🟡 `8` - Drop-in authentication and user management with easy MVP setup
 - **[Firebase Anonymous Auth](https://firebase.google.com/docs/auth/web/anonymous-auth)** ⚪ `6` - Quick setup for user tracking without full sign-up
 - **[Firebase Auth](https://firebase.google.com/products/auth)** 🟡 `7` - Simple authentication with social login support
@@ -111,7 +112,7 @@ Hand-picked from the 50 entries that score 9 or 10, one row per job. Each pick w
 
 ### Backend Development
 - **[ASP.NET](https://learn.microsoft.com/en-us/aspnet/core/)** ⚪ `5` - Robust Microsoft framework for modern web applications and APIs
-- **[Convex](https://www.convex.dev/)** 🟢 `9` - Reactive TypeScript backend with database, file storage, auth and crons; free plan
+- **[Convex](https://www.convex.dev/)** 🟢 `9` - Reactive backend with database, file storage, auth, crons and vector search; free plan
 - **[Express.js](https://expressjs.com/)** 🟡 `7` - Minimalist Node.js framework, easy REST API setup
 - **[FastAPI](https://fastapi.tiangolo.com/)** 🟡 `8` - Python framework for building APIs quickly with built-in docs
 - **[Firebase Functions](https://firebase.google.com/docs/functions)** ⚪ `4` - Serverless functions triggered by Firebase events or HTTP; requires the pay-as-you-go Blaze plan
@@ -154,28 +155,26 @@ Hand-picked from the 50 entries that score 9 or 10, one row per job. Each pick w
 - **[Wireshark](https://www.wireshark.org/)** ⚪ `6` - Network protocol analyzer for debugging
 
 ### Data Engineering & Analytics
-- **[DBeaver Community](https://dbeaver.io/)** 🟡 `7` - Open-source database management tool
 - **[Google BigQuery Sandbox](https://docs.cloud.google.com/bigquery/docs/sandbox)** 🟡 `7` - Free data warehouse with SQL
-- **[Kaggle Datasets](https://www.kaggle.com/datasets)** 🟢 `9` - Access open datasets for data-driven MVPs
-- **[Looker Studio](https://lookerstudio.google.com/)** 🟡 `8` - Free data visualization for dashboards
-- **[ydata-profiling](https://docs.profiling.ydata.ai/)** 🟡 `8` - One-line exploratory data report for a pandas DataFrame (formerly Pandas Profiling)
+- **[ydata-profiling](https://docs.profiling.ydata.ai/)** 🟡 `8` - Exploratory data report for a pandas DataFrame in one line of code (formerly Pandas Profiling)
 
 ### Data Visualization
 - **[Chart.js](https://www.chartjs.org/)** 🟢 `9` - Lightweight JavaScript library for frontend charts
-- **[Draw.io](https://www.drawio.com/)** 🟡 `8` - Open-source diagramming tool with Google Drive integration
 - **[Google Charts](https://developers.google.com/chart)** 🟡 `7` - Simple API for website data visualizations
+- **[Looker Studio](https://lookerstudio.google.com/)** 🟡 `8` - Free data visualization for dashboards
 - **[Plotly](https://plotly.com/)** 🟢 `9` - Interactive graphing for data visualization in Python
 - **[Tableau Public](https://public.tableau.com/)** 🟡 `8` - Free version for interactive, shareable dashboards
 - **[ToolKnit CSV Chart Maker](https://toolknit.com/tools/chart-maker.html)** ⚪ `6` - Turn pasted CSV into charts for a demo or pitch, with editable labels and PNG or interactive HTML export
 
 ### Database & Storage
 - **[Airtable](https://airtable.com/)** 🟡 `7` - Easy-to-use database with spreadsheet interface
+- **[DBeaver Community](https://dbeaver.io/)** 🟡 `7` - Open-source database management tool
 - **[Firebase Firestore](https://firebase.google.com/products/firestore)** 🟡 `8` - Realtime NoSQL database with offline sync
 - **[MongoDB Atlas](https://www.mongodb.com/cloud/atlas)** 🟡 `8` - Managed NoSQL database with free tier
-- **[Neon](https://neon.com/)** 🟢 `9` - Serverless Postgres with instant branching, free plan with no card
+- **[Neon](https://neon.com/)** 🟢 `9` - Serverless Postgres with instant branching; free plan with 100 projects that scale to zero when idle
 - **[Prisma Postgres](https://www.prisma.io/postgres)** ⚪ `6` - Managed PostgreSQL with free plan and zero cold starts
 - **[Supabase](https://supabase.com/)** 🟢 `9` - Postgres with auth, storage, realtime and auto-generated APIs; free plan (free projects pause when inactive)
-- **[Turso](https://turso.tech/)** 🟡 `8` - Edge SQLite (libSQL) databases, free plan with 100 databases and no card
+- **[Turso](https://turso.tech/)** 🟡 `8` - SQLite-compatible database, embedded or in Turso Cloud; free plan with 100 databases, no card needed
 
 ### Deployment & Hosting
 - **[AWS Lambda Free Tier](https://aws.amazon.com/lambda/pricing/)** ⚪ `3` - Event-driven serverless functions, 1M free requests per month
@@ -186,24 +185,22 @@ Hand-picked from the 50 entries that score 9 or 10, one row per job. Each pick w
 - **[Netlify](https://www.netlify.com/)** 🟡 `8` - Free static hosting with CI/CD from GitHub
 - **[Prisma Compute](https://www.prisma.io/compute)** ⚪ `5` - Host TypeScript apps next to Prisma Postgres, 1M requests/month free
 - **[Render](https://render.com/)** 🟢 `9` - Deploy web services, Postgres and static sites from a Git repo; free instances sleep when idle
-- **[Vercel](https://vercel.com/)** 🟢 `10` - Deploy frontends and serverless APIs from Git with preview URLs; free Hobby plan, and `vercel deploy --temporary` works without an account
+- **[Vercel](https://vercel.com/)** 🟢 `10` - Deploy frontends and serverless functions from Git; free Hobby plan, and `vercel deploy --temporary` works without an account
 - **[Vercel Serverless Functions](https://vercel.com/docs/concepts/functions/serverless-functions)** ⚪ `6` - Built-in serverless functions
 
 ### Design & UI/UX
 - **[AI Design Guide: Design Systems](https://www.aidesign.guide/design-systems)** 🟡 `8` - Directory of 185 design systems, filterable by MCP, agent skills and llms.txt support, for picking a UI kit your coding agent can read
-- **[APPLORE](https://applore.app/app-icon-generator)** ⚪ `6` - Free app icon export in every iOS, Android and web size, no sign-up
-- **[Atlassian Design System](https://atlassian.design/design-system)** 🟡 `7` - Tokens, components and Figma libraries for Atlassian Forge apps (Codegeist and other Atlassian hackathons)
+- **[Atlassian Design System](https://atlassian.design/design-system)** 🟡 `7` - Tokens, components and Figma libraries for apps that should look native in Atlassian products (Forge's UI Kit uses the same look)
 - **[Blender](https://www.blender.org/)** 🟡 `7` - Free and open-source 3D computer graphics software
 - **[Canva](https://www.canva.com/)** 🟡 `8` - Simple design tool with templates for mockups and presentations
+- **[Draw.io](https://www.drawio.com/)** 🟡 `8` - Open-source diagramming tool with Google Drive integration
 - **[Excalidraw](https://excalidraw.com/)** 🟢 `9` - Collaborative whiteboard for sketch-style diagrams
 - **[Figma](https://www.figma.com/)** 🟡 `7` - Collaborative design tool for wireframes and prototypes
 - **[Filee](https://filee.sh)** 🟡 `8` - Free, open-source offline file converter for Windows, macOS and Linux: drag images, PDFs, docs, video or audio onto a format, no upload
 - **[GIMP](https://www.gimp.org/)** ⚪ `6` - Open-source image editor comparable to Photoshop
-- **[Kdenlive](https://kdenlive.org/)** 🟡 `8` - Professional-grade, open-source video editor
-- **[Penpot](https://penpot.app/)** 🟡 `8` - Open-source Figma alternative that runs in the browser, free and self-hostable
-- **[Pixilart](https://www.pixilart.com/)** ⚪ `6` - Free browser-based pixel art app
+- **[Lunacy](https://icons8.com/lunacy)** ⚪ `5` - Free design alternative to Figma
+- **[Penpot](https://penpot.app/)** 🟡 `8` - Open-source design platform and Figma alternative, free to use and self-hostable
 - **[ProtoPie](https://www.protopie.io/)** ⚪ `4` - Intuitive prototyping tool for interactive mockups
-- **[v0](https://v0.app/)** 🟡 `8` - Vercel's AI app builder that generates React and Next.js UI from a prompt or screenshot
 - **[Whimsical](https://whimsical.com/)** ⚪ `6` - Drag-and-drop wireframing tool for quick prototyping
 
 ### Design Resources
@@ -225,16 +222,16 @@ Hand-picked from the 50 entries that score 9 or 10, one row per job. Each pick w
 - **[Humaaans](https://www.humaaans.com)** 🟡 `8` - Mix-&-match illustrations of people
 - **[Open Peeps](https://www.openpeeps.com)** 🟡 `8` - Hand-drawn illustration library of people scenes
 - **[SVG Illustrations](https://lukaszadam.com/illustrations)** ⚪ `6` - Free SVG Illustrations
-- **[unDraw](https://undraw.co/)** 🟡 `8` - Free open-licensed SVG illustrations, recolorable to your brand on the site
+- **[unDraw](https://undraw.co/)** 🟡 `8` - Free SVG illustrations you can recolor to your brand, no attribution needed (redistributing them as packs is not allowed)
 
 ### Frontend Development
 - **[Bootstrap](https://getbootstrap.com/)** 🟡 `7` - CSS framework with pre-designed responsive components
-- **[Next.js](https://nextjs.org/)** 🟢 `9` - React framework with file routing, API routes and one-click Vercel deploys
+- **[Next.js](https://nextjs.org/)** 🟢 `9` - React framework with file-based routing, server rendering and server-side APIs
 - **[Parcel](https://parceljs.org/)** ⚪ `5` - Zero-config bundler for quick app setup
 - **[React](https://react.dev/)** 🟡 `7` - JavaScript library with reusable components
 - **[SvelteKit](https://svelte.dev/)** 🟡 `7` - Fast and lightweight framework with minimal boilerplate
 - **[Tailwind CSS](https://tailwindcss.com/)** 🟢 `9` - Utility-based CSS framework for quick styling
-- **[Vite](https://vite.dev/)** 🟢 `9` - Instant dev server and fast builds for React, Vue, Svelte and vanilla projects
+- **[Vite](https://vite.dev/)** 🟢 `9` - Frontend tooling with a near-instant dev server and pre-bundled dependencies
 - **[Vue.js](https://vuejs.org/)** 🟡 `7` - Lightweight, beginner-friendly framework for dynamic UIs
 
 #### UI Libraries
@@ -270,7 +267,7 @@ Hand-picked from the 50 entries that score 9 or 10, one row per job. Each pick w
 
 #### Game Development Tools
 - **[Clickteam Fusion](https://www.clickteam.com/clickteam-fusion-2-5-free-edition)** ⚪ `4` - Easy to use game engine for beginners
-- **[gbdk-2020](https://github.com/gbdk-2020/gbdk-2020)** ⚪ `5` - C toolchain for making Game Boy games, handy for retro-themed jams
+- **[gbdk-2020](https://github.com/gbdk-2020/gbdk-2020)** ⚪ `5` - C toolchain for Game Boy games (plus a few other retro consoles), handy for retro-themed jams
 - **[LDtk](https://ldtk.io/)** 🟢 `9` - A fast, free, open source 2D level editor from the director of Dead Cells
 - **[Tiled](https://www.mapeditor.org/)** 🟢 `9` - Free, easy to use and flexible level editor for creating 2D tile maps
 
@@ -294,6 +291,7 @@ Hand-picked from the 50 entries that score 9 or 10, one row per job. Each pick w
 #### Graphics & Art Tools
 - **[Aseprite](https://www.aseprite.org/)** 🟡 `8` - Animated sprite editor and pixel art tool
 - **[BulkPicTools](https://bulkpictools.com/)** ⚪ `6` - Free browser-based bulk image processor. Compress, convert (HEIC/WebP/AVIF/PNG/JPG), resize, crop, and watermark 1,000+ images at once — no upload, no account, works offline. Perfect for quickly optimizing demo screenshots and pitch deck assets.
+- **[DeepMotion](https://www.deepmotion.com/)** ⚪ `6` - Text to 3D animation and Video to 3D animation app
 - **[FireAlpaca](http://firealpaca.com/)** ⚪ `5` - Free digital painting software for Mac and Windows
 - **[Inkscape](https://inkscape.org/)** 🟡 `7` - Free and open source vector graphics editor
 - **[Krita](https://krita.org/)** 🟡 `8` - Professional free and open source painting program
@@ -302,12 +300,12 @@ Hand-picked from the 50 entries that score 9 or 10, one row per job. Each pick w
 - **[Paint.NET](https://paint.net/)** 🟡 `7` - Free image and photo editing software
 - **[PiskelApp](https://www.piskelapp.com/)** 🟢 `9` - Free online editor for animated sprites & pixel art
 - **[Pixelorama](https://github.com/Orama-Interactive/Pixelorama)** 🟡 `7` - Free and open source pixel art editor with Godot-Engine
+- **[Pixilart](https://www.pixilart.com/)** ⚪ `6` - Free browser-based pixel art app
 - **[Pyxel Edit](https://pyxeledit.com/)** ⚪ `3` - Pixel art drawing application designed for working with tiles
 
 #### Color & Design Resources
 - **[Autodraw](https://www.autodraw.com/)** ⚪ `6` - Turns rough doodles into clean drawings using AI
 - **[BitFontMaker2](https://www.pentacom.jp/pentacom/bitfontmaker2/)** 🟡 `7` - Free online pixel font editor
-- **[Easy Releasy](https://lemoncosmos.itch.io/easy-releasy)** ⚪ `6` - Template pack to create itch.io pages
 - **[Flat UI Colors 2](https://flatuicolors.com/)** ⚪ `6` - 280 handpicked colors split into 13 palettes
 - **[Lospec Color Palette](https://lospec.com/palette-list)** 🟢 `9` - Searchable collection of palettes for pixel art
 - **[Removebg](https://www.remove.bg/)** 🟡 `8` - Remove backgrounds automatically in 5 seconds
@@ -316,16 +314,15 @@ Hand-picked from the 50 entries that score 9 or 10, one row per job. Each pick w
 - **[ZzSprite](https://killedbyapixel.github.io/ZzSprite/)** ⚪ `6` - Procedurally generate tiny pixel art sprites
 
 #### Game Design & Management
-- **[Lunacy](https://icons8.com/lunacy)** ⚪ `5` - Free design alternative to Figma
 - **[Machinations](https://machinations.io/)** ⚪ `5` - Free online tool to prototype the internal economy of your game
 - **[PureRef](https://www.pureref.com/)** 🟡 `7` - Free stand-alone program that keeps track of your reference images
 
 #### Game Hosting & Marketing
-- **[DeepMotion](https://www.deepmotion.com/)** ⚪ `6` - Text to 3D animation and Video to 3D animation app
+- **[Easy Releasy](https://lemoncosmos.itch.io/easy-releasy)** ⚪ `6` - Template pack to create itch.io pages
 - **[itch.io](https://itch.io/)** 🟢 `10` - Simple way to share indie games online for free
-- **[ScreenToGif](https://github.com/NickeManarin/ScreenToGif)** 🟢 `9` - Windows-only screen, webcam and sketchboard recorder with GIF and video export
 
 ### Generators & Snippets
+- **[APPLORE](https://applore.app/app-icon-generator)** ⚪ `6` - Free app icon export in every iOS, Android and web size, no sign-up
 - **[bg.ibelick](https://bg.ibelick.com)** 🟡 `8` - Collection of modern background snippets
 - **[delphitools](https://delphi.tools)** 🟡 `7` - Small browser-only utilities with no login, registration or data collection
 - **[Gradiently](https://gradienty.codes)** ⚪ `5` - Tailwind Gradient Generator for stunning visuals
@@ -360,8 +357,10 @@ Hand-picked from the 50 entries that score 9 or 10, one row per job. Each pick w
 - **[ElevenLabs](https://elevenlabs.io)** 🟡 `8` - AI voiceover for demo videos when nobody on the team wants to narrate
 - **[Gamma](https://gamma.app/)** 🟡 `8` - Generates a pitch deck from a prompt or outline; free credits, exports to PPTX and Google Slides
 - **[Google Slides](https://workspace.google.com/products/slides/)** 🟡 `8` - Collaborative pitch deck the whole team can edit at once
+- **[Kdenlive](https://kdenlive.org/)** 🟡 `8` - Professional-grade, open-source video editor
 - **[Loom](https://www.loom.com/)** 🟡 `8` - Quick screen and camera recordings with a shareable link; free plan allows 25 videos of up to 5 minutes
-- **[OBS Studio](https://obsproject.com/)** 🟢 `9` - Free open-source screen recorder for polished demo videos with scenes, overlays and mic mixing
+- **[OBS Studio](https://obsproject.com/)** 🟢 `9` - Free, open-source screen recording and streaming for Windows, macOS and Linux
+- **[ScreenToGif](https://github.com/NickeManarin/ScreenToGif)** 🟢 `9` - Windows-only screen, webcam and sketchboard recorder with GIF and video export
 
 ### Project Starters & Boilerplates
 - **[Hackathon Starter](https://github.com/sahat/hackathon-starter)** 🟡 `8` - Node.js web application boilerplate with auth and APIs
@@ -373,6 +372,7 @@ Hand-picked from the 50 entries that score 9 or 10, one row per job. Each pick w
 - **[Playwright](https://playwright.dev/)** 🟡 `7` - Reliable end-to-end browser tests with auto-waiting and a codegen recorder
 - **[Postman](https://www.postman.com/)** ⚪ `6` - API testing tool with intuitive interface
 - **[Selenium IDE](https://www.selenium.dev/selenium-ide/)** ⚪ `5` - Browser extension for creating UI tests
+- **[Swagger UI](https://swagger.io/)** ⚪ `6` - Tool for automatically documenting and testing REST APIs
 
 ---
 ## Related Awesome Lists
