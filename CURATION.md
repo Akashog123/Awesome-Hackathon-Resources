@@ -188,6 +188,34 @@ Checked live; licenses from GitHub or the site. Fontshare's site confirms free f
 | [Monaspace](https://monaspace.githubnext.com/) | 2 | 2 | 0 | 2 | 0 | 6 | Reject: code font, invisible in demos |
 | [JetBrains Mono](https://www.jetbrains.com/lp/mono/) | 2 | 2 | 0 | 2 | 0 | 6 | Reject: code font, invisible in demos |
 
+### 2026-11-15 · Coding agent skills, plugins and MCP servers (from the owner's installed setup)
+
+Candidates came from the owner's installed Claude Code skills, plugins, MCP servers and global CLIs. Only tools with a public source were considered; local or private ones (custom MCP servers, local plugins) and anything outside the hackathon scope (business-ops skill suites) were skipped. Each repo was checked on GitHub for license, stars and activity, and each hosted tool's free plan on its pricing page. Hallmark and Taste Skill moved into the new section.
+
+| Resource | S | C | D | M | F | Total | Decision |
+|---|:-:|:-:|:-:|:-:|:-:|:-:|---|
+| [Superpowers](https://github.com/obra/superpowers) | 2 | 2 | 1 | 2 | 2 | 9 | Add |
+| [Impeccable](https://github.com/pbakaus/impeccable) | 2 | 2 | 2 | 2 | 1 | 9 | Add |
+| [skills.sh](https://skills.sh/) | 2 | 2 | 1 | 2 | 2 | 9 | Add |
+| [Claude Code Plugins (official)](https://github.com/anthropics/claude-plugins-official) | 2 | 2 | 1 | 2 | 2 | 9 | Add |
+| [Hackathon Playbook](https://github.com/SidTheKid-dotcom/hackathon-playbook) | 2 | 2 | 2 | 0 | 2 | 8 | Add |
+| [Ponytail](https://github.com/DietrichGebert/ponytail) | 2 | 2 | 1 | 2 | 1 | 8 | Add |
+| [Planning with Files](https://github.com/OthmanAdi/planning-with-files) | 2 | 2 | 1 | 2 | 1 | 8 | Add |
+| [wshobson/agents](https://github.com/wshobson/agents) | 2 | 2 | 1 | 2 | 1 | 8 | Add |
+| [DeepWiki MCP](https://docs.devin.ai/work-with-devin/deepwiki-mcp) | 2 | 2 | 1 | 2 | 2 | 9 | Add |
+| [Context7](https://context7.com/) | 2 | 1 | 1 | 2 | 2 | 8 | Add |
+| [Pi](https://github.com/earendil-works/pi) | 2 | 2 | 1 | 2 | 1 | 8 | Add |
+| [VoltAgent subagents](https://github.com/VoltAgent/awesome-claude-code-subagents) | 2 | 2 | 1 | 2 | 0 | 7 | Watchlist: overlaps wshobson/agents |
+| [Agentic Awesome Skills](https://github.com/sickn33/agentic-awesome-skills) | 1 | 2 | 1 | 2 | 1 | 7 | Watchlist: 2,955 skills is a lot to browse mid-event |
+| [Codex plugin for Claude Code](https://github.com/openai/codex-plugin-cc) | 2 | 1 | 0 | 2 | 1 | 6 | Watchlist: needs an OpenAI account |
+| [Agent-Reach](https://github.com/Panniantong/Agent-Reach) | 1 | 2 | 0 | 2 | 1 | 6 | Watchlist: research tool, not a build tool |
+| [Exa MCP](https://github.com/exa-labs/exa-mcp-server) | 2 | 1 | 0 | 2 | 1 | 6 | Watchlist |
+| [OpenDia](https://github.com/aeonfun/opendia) | 1 | 2 | 0 | 1 | 1 | 5 | Reject |
+| [Stitch](https://stitch.withgoogle.com/) | – | – | – | – | – | – | Hold: free terms could not be confirmed |
+| [Anthropic Skills](https://github.com/anthropics/skills) | – | – | – | – | – | – | Hold: no license file at repo root |
+
+Hackathon Playbook scores Maturity 0 (1 star, one maintainer) but totals 8, so it's in by the rubric and its entry says it's new.
+
 ## Watchlist
 
 - **[ascii-reveal](https://github.com/quanhoangindex/ascii-reveal)** - Character-grid decode effect for React loading states. Promote once it has more users and releases.

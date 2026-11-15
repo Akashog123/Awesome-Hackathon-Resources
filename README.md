@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/resources-159-2f6bff?style=flat-square" alt="159 resources" />
+  <img src="https://img.shields.io/badge/resources-170-2f6bff?style=flat-square" alt="170 resources" />
   <img src="https://img.shields.io/badge/last%20reviewed-2026--11--15-71717a?style=flat-square" alt="Last reviewed 2026-11-15" />
   <a href="https://github.com/Akashog123/Awesome-Hackathon-Resources"><img src="https://img.shields.io/badge/%E2%AD%90-star%20if%20useful-f59e0b?style=flat-square" alt="Star if useful" /></a>
 </p>
@@ -26,12 +26,13 @@
 |---|---|---|
 | 🤖 [AI & Machine Learning](#ai--machine-learning) | 🧑‍💻 [AI Development Tools](#ai-development-tools) | 🔌 [APIs & Data Sources](#apis--data-sources) |
 | 🔐 [Authentication & User Management](#authentication--user-management) | ⚙️ [Backend Development](#backend-development) | ⛓️ [Blockchain & Web3](#blockchain--web3) |
-| 🧩 [Browser Extensions & Dev Tools](#browser-extensions--dev-tools) | 💬 [Collaboration & Communication](#collaboration--communication) | 🛡️ [Cybersecurity Tools](#cybersecurity-tools) |
-| 🧮 [Data Engineering & Analytics](#data-engineering--analytics) | 📊 [Data Visualization](#data-visualization) | 🗄️ [Database & Storage](#database--storage) |
-| 🚀 [Deployment & Hosting](#deployment--hosting) | 🎨 [Design & UI/UX](#design--uiux) | 🖼️ [Design Resources](#design-resources) |
-| 🖥️ [Frontend Development](#frontend-development) | 🎮 [Game Development](#game-development) | ✨ [Generators & Snippets](#generators--snippets) |
-| 💡 [Inspiration & Ideas](#inspiration--ideas) | 🔗 [MCP Servers/Tools](#mcp-serverstools) | 📱 [Mobile Development](#mobile-development) |
-| 🎤 [Pitch & Demo](#pitch--demo) | 📦 [Project Starters & Boilerplates](#project-starters--boilerplates) | ✅ [Testing & Quality Assurance](#testing--quality-assurance) |
+| 🧩 [Browser Extensions & Dev Tools](#browser-extensions--dev-tools) | 🤝 [Coding Agent Skills & Plugins](#coding-agent-skills--plugins) | 💬 [Collaboration & Communication](#collaboration--communication) |
+| 🛡️ [Cybersecurity Tools](#cybersecurity-tools) | 🧮 [Data Engineering & Analytics](#data-engineering--analytics) | 📊 [Data Visualization](#data-visualization) |
+| 🗄️ [Database & Storage](#database--storage) | 🚀 [Deployment & Hosting](#deployment--hosting) | 🎨 [Design & UI/UX](#design--uiux) |
+| 🖼️ [Design Resources](#design-resources) | 🖥️ [Frontend Development](#frontend-development) | 🎮 [Game Development](#game-development) |
+| ✨ [Generators & Snippets](#generators--snippets) | 💡 [Inspiration & Ideas](#inspiration--ideas) | 🔗 [MCP Servers/Tools](#mcp-serverstools) |
+| 📱 [Mobile Development](#mobile-development) | 🎤 [Pitch & Demo](#pitch--demo) | 📦 [Project Starters & Boilerplates](#project-starters--boilerplates) |
+| ✅ [Testing & Quality Assurance](#testing--quality-assurance) |  |  |
 
 **Also:** [Related Awesome Lists](#related-awesome-lists) · [Contributing](#contributing)
 
@@ -54,9 +55,8 @@
 - **[Runway](https://runway.com/)** 🟡 `7` - Generate and edit video, images and audio with AI; free to try
 
 ### AI Development Tools
-- **[Hallmark](https://usehallmark.com)** 🟢 `9` - Design skill for Claude Code, Codex and OpenCode that picks a theme, lays out the page and lints out AI-slop patterns
-- **[Taste Skill](https://tasteskill.dev)** 🟢 `9` - Design skill for coding agents with art directions from 247 curated sites and a real-browser check
 - **[Bolt](https://bolt.new/)** 🟡 `8` - AI-powered web development agent for full-stack applications in browser
+- **[Pi](https://github.com/earendil-works/pi)** 🟡 `8` - Open-source terminal coding agent with read, bash, edit and write tools, working across many LLM providers
 - **[v0](https://v0.app/)** 🟡 `8` - Vercel's AI assistant for designing and building full-stack web apps from a prompt
 - **[Cursor](https://www.cursor.com/)** 🟡 `7` - AI code editor with a built-in agent for multi-step coding tasks
 - **[GitHub Copilot](https://github.com/features/copilot)** 🟡 `7` - AI pair programmer that suggests code completions and entire functions
@@ -94,6 +94,18 @@
 ### Browser Extensions & Dev Tools
 - **[ColorZilla](https://chromewebstore.google.com/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp)** 🟡 `7` - Advanced Eyedropper, Color Picker, Gradient Generator
 - **[React Developer Tools](https://chromewebstore.google.com/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi)** 🟡 `7` - React debugging tools for Chrome
+
+### Coding Agent Skills & Plugins
+- **[Claude Code Plugins (official)](https://github.com/anthropics/claude-plugins-official)** 🟢 `9` - Anthropic-managed directory of high-quality Claude Code plugins
+- **[Hallmark](https://usehallmark.com)** 🟢 `9` - Design skill for Claude Code, Codex and OpenCode that picks a theme, lays out the page and lints out AI-slop patterns
+- **[Impeccable](https://github.com/pbakaus/impeccable)** 🟢 `9` - Design vocabulary for your coding agent: steer with commands like polish and bolder, review with critique
+- **[skills.sh](https://skills.sh/)** 🟢 `9` - Directory of agent skills, plus `npx skills`, the open tool that installs them into any agent
+- **[Superpowers](https://github.com/obra/superpowers)** 🟢 `9` - Agentic skills framework and development methodology for coding agents (MIT)
+- **[Taste Skill](https://tasteskill.dev)** 🟢 `9` - Design skill for coding agents with art directions from 247 curated sites and a real-browser check
+- **[Hackathon Playbook](https://github.com/SidTheKid-dotcom/hackathon-playbook)** 🟡 `8` - Agent skill for winning judged builds (hackathons, game jams, take-homes), from decoding the judges to demo and submission; new, single maintainer
+- **[Planning with Files](https://github.com/OthmanAdi/planning-with-files)** 🟡 `8` - Persistent file-based planning for coding agents, so long builds survive context resets
+- **[Ponytail](https://github.com/DietrichGebert/ponytail)** 🟡 `8` - Makes your coding agent write the least code that works, so there is less to debug before the demo
+- **[wshobson/agents](https://github.com/wshobson/agents)** 🟡 `8` - Plugins, agents, skills and commands for Claude Code, Codex CLI, Cursor and other agents
 
 ### Collaboration & Communication
 - **[Discord](https://discord.com/)** 🟡 `7` - Voice, video, and chat communication for team discussions
@@ -247,7 +259,9 @@
 - **[Landbook](https://land-book.com/)** 🟡 `7` - Hand-picked website design gallery, filterable by page type and industry
 
 ### MCP Servers/Tools
+- **[DeepWiki MCP](https://docs.devin.ai/work-with-devin/deepwiki-mcp)** 🟢 `9` - Free MCP server that lets your agent ask questions about any public GitHub repo
 - **[MCP Reference Servers](https://github.com/modelcontextprotocol/servers)** 🟢 `9` - Official reference MCP servers (filesystem, git, fetch, memory) and an index of community servers
+- **[Context7](https://context7.com/)** 🟡 `8` - Current, version-specific library docs for coding agents; free plan with 1,000 calls a month
 
 ### Mobile Development
 - **[Expo (React Native)](https://expo.dev/)** 🟢 `10` - Fast setup for cross-platform mobile development
