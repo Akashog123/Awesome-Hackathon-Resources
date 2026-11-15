@@ -363,6 +363,10 @@ Stripe's global availability page lists India as "Preview" with contact-sales si
 - **[Selenium IDE](https://www.selenium.dev/selenium-ide/)** ⚪ `5` - Browser extension for creating UI tests
 - **[Swagger UI](https://swagger.io/)** ⚪ `6` - Tool for automatically documenting and testing REST APIs
 
+**Removed 2026-11-15 at owner's request** (payments-only use, country-limited signup):
+
+- **[Stripe test mode](https://docs.stripe.com/testing)** 🟡 `7` - Sandbox payments with test cards for demoing a checkout flow without moving money; only for projects that take payments, and signup is limited by country (India is in invite-only preview)
+
 ## Full scorecard
 
 Every README entry, scored 2026-11-15 (242 entries). S = Speed, C = Cost, D = Demo impact, M = Maturity, F = Fit.

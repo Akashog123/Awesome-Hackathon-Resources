@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/resources-154-2f6bff?style=flat-square" alt="154 resources" />
+  <img src="https://img.shields.io/badge/resources-153-2f6bff?style=flat-square" alt="153 resources" />
   <img src="https://img.shields.io/badge/every%20entry-scored%200--10-22c55e?style=flat-square" alt="Every entry scored" />
   <img src="https://img.shields.io/badge/last%20reviewed-2026--11--15-71717a?style=flat-square" alt="Last reviewed 2026-11-15" />
   <a href="https://github.com/Akashog123/Awesome-Hackathon-Resources"><img src="https://img.shields.io/badge/%E2%AD%90-star%20if%20useful-f59e0b?style=flat-square" alt="Star if useful" /></a>
@@ -91,7 +91,6 @@ Hand-picked from the 49 entries that score 9 or 10, one row per job. Each pick w
 - **[Mockaroo](https://www.mockaroo.com/)** 🟡 `7` - Generate up to 1,000 rows of test data in multiple formats
 - **[NewsAPI](https://newsapi.org/)** 🟡 `7` - Free access to recent news data from various sources
 - **[Public APIs](https://github.com/public-apis/public-apis)** 🟢 `9` - Huge categorized list of free public APIs, many with no auth required
-- **[Stripe test mode](https://docs.stripe.com/testing)** 🟡 `7` - Sandbox payments with test cards for demoing a checkout flow without moving money; only for projects that take payments, and signup is limited by country (India is in invite-only preview)
 - **[Twilio](https://www.twilio.com/)** 🟡 `7` - Simple API for sending SMS and making calls, free trial with credits
 
 ### Authentication & User Management
