@@ -38,7 +38,7 @@ How a resource gets into (or out of) this list. Every addition, removal and revi
 - **[Name](https://url)** - What it does, in one line, and why it helps in a hackathon
 ```
 
-Keep entries alphabetical inside a section. Put each tool in exactly one section (the one a builder would look in first).
+Inside a section, sort entries by score (highest first), then alphabetically. Put each tool in exactly one section (the one a builder would look in first).
 
 ## 5. Review cadence
 

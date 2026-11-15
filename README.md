@@ -41,35 +41,35 @@
 
 ### AI & Machine Learning
 - **[Google AI Studio](https://aistudio.google.com/)** 🟢 `10` - Prototype with Gemini models and get an API key on the free tier, no billing account needed
-- **[Google Colab](https://colab.research.google.com/)** 🟢 `9` - Free Jupyter notebook with GPU support for quick prototyping of ML models
 - **[Gradio](https://www.gradio.app/)** 🟢 `10` - Wrap any Python model in a web demo in a few lines; free Hugging Face accounts can host up to 2 Gradio Spaces on ZeroGPU
+- **[Google Colab](https://colab.research.google.com/)** 🟢 `9` - Free Jupyter notebook with GPU support for quick prototyping of ML models
 - **[Groq](https://console.groq.com/)** 🟢 `9` - Very fast inference for open-weight models such as GPT-OSS and Whisper, with a free plan
-- **[Hugging Face Transformers](https://huggingface.co/docs/transformers/)** 🟡 `8` - Pre-trained NLP models, no need to train from scratch
 - **[Ollama](https://ollama.com/)** 🟢 `9` - Run open models locally (or in Ollama's cloud) on macOS, Windows and Linux, so a bad venue Wi-Fi can't stop your demo
 - **[OpenRouter](https://openrouter.ai/)** 🟢 `9` - One OpenAI-compatible API for many model providers, including 25+ free models
-- **[Replicate](https://replicate.com/)** 🟡 `8` - Run and fine-tune open-source models. Deploy custom models at scale
-- **[Runway](https://runway.com/)** 🟡 `7` - Generate and edit video, images and audio with AI; free to try
 - **[Streamlit](https://streamlit.io/)** 🟢 `9` - Turn a Python script into an interactive data app, with free Community Cloud hosting
 - **[Teachable Machine](https://teachablemachine.withgoogle.com/)** 🟢 `9` - Train image, sound, and pose models in the browser without code
 - **[Vercel AI SDK](https://ai-sdk.dev/)** 🟢 `9` - Open-source TypeScript toolkit for streaming chat, tool calls and agents across any model provider
+- **[Hugging Face Transformers](https://huggingface.co/docs/transformers/)** 🟡 `8` - Pre-trained NLP models, no need to train from scratch
+- **[Replicate](https://replicate.com/)** 🟡 `8` - Run and fine-tune open-source models. Deploy custom models at scale
+- **[Runway](https://runway.com/)** 🟡 `7` - Generate and edit video, images and audio with AI; free to try
 
 ### AI Development Tools
+- **[Hallmark](https://usehallmark.com)** 🟢 `9` - Design skill for Claude Code, Codex and OpenCode that picks a theme, lays out the page and lints out AI-slop patterns
+- **[Taste Skill](https://tasteskill.dev)** 🟢 `9` - Design skill for coding agents with art directions from 247 curated sites and a real-browser check
 - **[Bolt](https://bolt.new/)** 🟡 `8` - AI-powered web development agent for full-stack applications in browser
+- **[v0](https://v0.app/)** 🟡 `8` - Vercel's AI assistant for designing and building full-stack web apps from a prompt
 - **[Cursor](https://www.cursor.com/)** 🟡 `7` - AI code editor with a built-in agent for multi-step coding tasks
 - **[GitHub Copilot](https://github.com/features/copilot)** 🟡 `7` - AI pair programmer that suggests code completions and entire functions
-- **[Hallmark](https://usehallmark.com)** 🟢 `9` - Design skill for Claude Code, Codex and OpenCode that picks a theme, lays out the page and lints out AI-slop patterns
 - **[Replit](https://replit.com/)** 🟡 `7` - Browser workspace where an AI agent builds and publishes apps and sites; free mode available
-- **[Taste Skill](https://tasteskill.dev)** 🟢 `9` - Design skill for coding agents with art directions from 247 curated sites and a real-browser check
-- **[v0](https://v0.app/)** 🟡 `8` - Vercel's AI assistant for designing and building full-stack web apps from a prompt
 
 ### APIs & Data Sources
+- **[Kaggle Datasets](https://www.kaggle.com/datasets)** 🟢 `9` - Access open datasets for data-driven MVPs
+- **[Public APIs](https://github.com/public-apis/public-apis)** 🟢 `9` - Huge categorized list of free public APIs, many with no auth required
+- **[Mapbox](https://www.mapbox.com/)** 🟡 `8` - Easy-to-use maps and geolocation service with generous free tier
 - **[CoinGecko](https://docs.coingecko.com/)** 🟡 `7` - Cryptocurrency price, market, and developer/social data
 - **[JsonPlaceholder](https://jsonplaceholder.typicode.com/)** 🟡 `7` - Fake online REST API for quick prototyping and testing
-- **[Kaggle Datasets](https://www.kaggle.com/datasets)** 🟢 `9` - Access open datasets for data-driven MVPs
-- **[Mapbox](https://www.mapbox.com/)** 🟡 `8` - Easy-to-use maps and geolocation service with generous free tier
 - **[Mockaroo](https://www.mockaroo.com/)** 🟡 `7` - Generate up to 1,000 rows of test data in multiple formats
 - **[NewsAPI](https://newsapi.org/)** 🟡 `7` - Free access to recent news data from various sources
-- **[Public APIs](https://github.com/public-apis/public-apis)** 🟢 `9` - Huge categorized list of free public APIs, many with no auth required
 - **[Twilio](https://www.twilio.com/)** 🟡 `7` - Simple API for sending SMS and making calls, free trial with credits
 
 ### Authentication & User Management
@@ -79,17 +79,17 @@
 
 ### Backend Development
 - **[Convex](https://www.convex.dev/)** 🟢 `9` - Reactive backend with database, file storage, auth, crons and vector search; free plan
-- **[Express.js](https://expressjs.com/)** 🟡 `7` - Minimalist Node.js framework, easy REST API setup
 - **[FastAPI](https://fastapi.tiangolo.com/)** 🟡 `8` - Python framework for building APIs quickly with built-in docs
+- **[Express.js](https://expressjs.com/)** 🟡 `7` - Minimalist Node.js framework, easy REST API setup
 - **[Flask](https://flask.palletsprojects.com/)** 🟡 `7` - Lightweight Python microframework for simple backends
 - **[Hasura](https://hasura.io/)** 🟡 `7` - GraphQL engine for PostgreSQL, instant GraphQL API creation
 
 ### Blockchain & Web3
+- **[MetaMask](https://metamask.com/)** 🟢 `9` - Browser extension for managing blockchain wallets and DApps
+- **[Remix IDE](https://remix.ethereum.org/)** 🟢 `9` - Browser-based Solidity IDE for smart contracts
 - **[Alchemy](https://www.alchemy.com/)** 🟡 `8` - Easy-to-use platform for blockchain APIs and developer tools
 - **[Infura](https://infura.io/)** 🟡 `7` - API for connecting to Ethereum blockchain with free transactions
-- **[MetaMask](https://metamask.com/)** 🟢 `9` - Browser extension for managing blockchain wallets and DApps
 - **[Moralis](https://moralis.com/)** 🟡 `7` - Web3 backend with APIs, user authentication, and data storage
-- **[Remix IDE](https://remix.ethereum.org/)** 🟢 `9` - Browser-based Solidity IDE for smart contracts
 
 ### Browser Extensions & Dev Tools
 - **[ColorZilla](https://chromewebstore.google.com/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp)** 🟡 `7` - Advanced Eyedropper, Color Picker, Gradient Generator
@@ -108,51 +108,51 @@
 - **[Sqlmap](http://sqlmap.org/)** 🟡 `7` - Penetration testing tool for SQL injection detection
 
 ### Data Engineering & Analytics
-- **[Google BigQuery Sandbox](https://docs.cloud.google.com/bigquery/docs/sandbox)** 🟡 `7` - Free data warehouse with SQL
 - **[ydata-profiling](https://docs.profiling.ydata.ai/)** 🟡 `8` - Exploratory data report for a pandas DataFrame in one line of code (formerly Pandas Profiling)
+- **[Google BigQuery Sandbox](https://docs.cloud.google.com/bigquery/docs/sandbox)** 🟡 `7` - Free data warehouse with SQL
 
 ### Data Visualization
 - **[Chart.js](https://www.chartjs.org/)** 🟢 `9` - Lightweight JavaScript library for frontend charts
-- **[Google Charts](https://developers.google.com/chart)** 🟡 `7` - Simple API for website data visualizations
-- **[Looker Studio](https://lookerstudio.google.com/)** 🟡 `8` - Free data visualization for dashboards
 - **[Plotly](https://plotly.com/)** 🟢 `9` - Interactive graphing for data visualization in Python
+- **[Looker Studio](https://lookerstudio.google.com/)** 🟡 `8` - Free data visualization for dashboards
 - **[Tableau Public](https://public.tableau.com/)** 🟡 `8` - Free version for interactive, shareable dashboards
+- **[Google Charts](https://developers.google.com/chart)** 🟡 `7` - Simple API for website data visualizations
 
 ### Database & Storage
-- **[Airtable](https://airtable.com/)** 🟡 `7` - Easy-to-use database with spreadsheet interface
-- **[DBeaver Community](https://dbeaver.io/)** 🟡 `7` - Open-source database management tool
-- **[Firebase Firestore](https://firebase.google.com/products/firestore)** 🟡 `8` - Realtime NoSQL database with offline sync
-- **[MongoDB Atlas](https://www.mongodb.com/cloud/atlas)** 🟡 `8` - Managed NoSQL database with free tier
 - **[Neon](https://neon.com/)** 🟢 `9` - Serverless Postgres with instant branching; free plan with 100 projects that scale to zero when idle
 - **[Supabase](https://supabase.com/)** 🟢 `9` - Postgres with auth, storage, realtime and auto-generated APIs; free plan (free projects pause when inactive)
+- **[Firebase Firestore](https://firebase.google.com/products/firestore)** 🟡 `8` - Realtime NoSQL database with offline sync
+- **[MongoDB Atlas](https://www.mongodb.com/cloud/atlas)** 🟡 `8` - Managed NoSQL database with free tier
 - **[Turso](https://turso.tech/)** 🟡 `8` - SQLite-compatible database, embedded or in Turso Cloud; free plan with 100 databases, no card needed
+- **[Airtable](https://airtable.com/)** 🟡 `7` - Easy-to-use database with spreadsheet interface
+- **[DBeaver Community](https://dbeaver.io/)** 🟡 `7` - Open-source database management tool
 
 ### Deployment & Hosting
+- **[Vercel](https://vercel.com/)** 🟢 `10` - Deploy frontends and serverless functions from Git; free Hobby plan, and `vercel deploy --temporary` works without an account
+- **[Render](https://render.com/)** 🟢 `9` - Deploy web services, Postgres and static sites from a Git repo; free instances sleep when idle
 - **[Cloudflare Workers](https://developers.cloudflare.com/workers/)** 🟡 `8` - Serverless functions at the edge, 100k free requests per day
 - **[GitHub Pages](https://pages.github.com/)** 🟡 `8` - Free hosting for static websites
 - **[Netlify](https://www.netlify.com/)** 🟡 `8` - Free static hosting with CI/CD from GitHub
-- **[Render](https://render.com/)** 🟢 `9` - Deploy web services, Postgres and static sites from a Git repo; free instances sleep when idle
-- **[Vercel](https://vercel.com/)** 🟢 `10` - Deploy frontends and serverless functions from Git; free Hobby plan, and `vercel deploy --temporary` works without an account
 
 ### Design & UI/UX
+- **[Excalidraw](https://excalidraw.com/)** 🟢 `9` - Collaborative whiteboard for sketch-style diagrams
 - **[AI Design Guide: Design Systems](https://www.aidesign.guide/design-systems)** 🟡 `8` - Directory of 185 design systems, filterable by MCP, agent skills and llms.txt support, for picking a UI kit your coding agent can read
-- **[Atlassian Design System](https://atlassian.design/design-system)** 🟡 `7` - Tokens, components and Figma libraries for apps that should look native in Atlassian products (Forge's UI Kit uses the same look)
-- **[Blender](https://www.blender.org/)** 🟡 `7` - Free and open-source 3D computer graphics software
 - **[Canva](https://www.canva.com/)** 🟡 `8` - Simple design tool with templates for mockups and presentations
 - **[Draw.io](https://www.drawio.com/)** 🟡 `8` - Open-source diagramming tool with Google Drive integration
-- **[Excalidraw](https://excalidraw.com/)** 🟢 `9` - Collaborative whiteboard for sketch-style diagrams
-- **[Figma](https://www.figma.com/)** 🟡 `7` - Collaborative design tool for wireframes and prototypes
 - **[Filee](https://filee.sh)** 🟡 `8` - Free, open-source offline file converter for Windows, macOS and Linux: drag images, PDFs, docs, video or audio onto a format, no upload
 - **[Penpot](https://penpot.app/)** 🟡 `8` - Open-source design platform and Figma alternative, free to use and self-hostable
+- **[Atlassian Design System](https://atlassian.design/design-system)** 🟡 `7` - Tokens, components and Figma libraries for apps that should look native in Atlassian products (Forge's UI Kit uses the same look)
+- **[Blender](https://www.blender.org/)** 🟡 `7` - Free and open-source 3D computer graphics software
+- **[Figma](https://www.figma.com/)** 🟡 `7` - Collaborative design tool for wireframes and prototypes
 
 ### Design Resources
 #### Fonts
-- **[Fontpair](https://fontpair.co/)** 🟡 `8` - 3,000+ curated Google Fonts pairings you can preview with your own text
+- **[Google Fonts](https://fonts.google.com/)** 🟢 `10` - Large free, open font library, ready to embed or download
 - **[Fontshare](https://www.fontshare.com/)** 🟢 `9` - Free, quality fonts from the Indian Type Foundry
 - **[Fontsource](https://fontsource.org/)** 🟢 `9` - Self-host open-source fonts with npm packages or CSS, with CDN links available
-- **[Geist Font](https://vercel.com/font)** 🟡 `8` - Developer-focused typeface inspired by Swiss design
-- **[Google Fonts](https://fonts.google.com/)** 🟢 `10` - Large free, open font library, ready to embed or download
 - **[Inter](https://rsms.me/inter/)** 🟢 `9` - Open-source (OFL) typeface family, a common default for app UIs
+- **[Fontpair](https://fontpair.co/)** 🟡 `8` - 3,000+ curated Google Fonts pairings you can preview with your own text
+- **[Geist Font](https://vercel.com/font)** 🟡 `8` - Developer-focused typeface inspired by Swiss design
 - **[Typescale](https://typescale.com/)** 🟡 `8` - Build a type scale, preview it and generate the CSS
 
 #### Icons
@@ -167,30 +167,30 @@
 - **[unDraw](https://undraw.co/)** 🟡 `8` - Free SVG illustrations you can recolor to your brand, no attribution needed (redistributing them as packs is not allowed)
 
 ### Frontend Development
-- **[Bootstrap](https://getbootstrap.com/)** 🟡 `7` - CSS framework with pre-designed responsive components
 - **[Next.js](https://nextjs.org/)** 🟢 `9` - React framework with file-based routing, server rendering and server-side APIs
-- **[React](https://react.dev/)** 🟡 `7` - JavaScript library with reusable components
-- **[SvelteKit](https://svelte.dev/)** 🟡 `7` - Fast and lightweight framework with minimal boilerplate
 - **[Tailwind CSS](https://tailwindcss.com/)** 🟢 `9` - Utility-based CSS framework for quick styling
 - **[Vite](https://vite.dev/)** 🟢 `9` - Frontend tooling with a near-instant dev server and pre-bundled dependencies
+- **[Bootstrap](https://getbootstrap.com/)** 🟡 `7` - CSS framework with pre-designed responsive components
+- **[React](https://react.dev/)** 🟡 `7` - JavaScript library with reusable components
+- **[SvelteKit](https://svelte.dev/)** 🟡 `7` - Fast and lightweight framework with minimal boilerplate
 - **[Vue.js](https://vuejs.org/)** 🟡 `7` - Lightweight, beginner-friendly framework for dynamic UIs
 
 #### UI Libraries
+- **[Shadcn UI](https://ui.shadcn.com/)** 🟢 `10` - Beautifully designed components made with Tailwind CSS
 - **[Amicro](https://amicro.dev)** 🟢 `9` - 170+ free copy-paste React micro-interaction components (buttons, loaders, carousels), installable via shadcn
 - **[boneyard](https://boneyard.vercel.app)** 🟢 `9` - Generates pixel-accurate skeleton screens from your real rendered UI with one CLI command
-- **[Cult UI](https://www.cult-ui.com)** 🟡 `7` - Ready-to-use React components, Shadcn compatible
 - **[Magic UI](https://magicui.design)** 🟢 `9` - 50+ free animated components for React and TypeScript
-- **[Shadcn UI](https://ui.shadcn.com/)** 🟢 `10` - Beautifully designed components made with Tailwind CSS
-- **[Skullet](https://skullet.lochie.me/)** 🟡 `7` - Skeleton states measured from sample data at runtime, no build step
 - **[Thinking Orbs](https://www.thinkingorbs.com/)** 🟢 `9` - Animated AI status indicators (thinking, searching, retrying) for React, JS and SwiftUI, MIT, 3.8 KB
 - **[UploadCN](https://uploadcn.dev/)** 🟡 `8` - shadcn file upload components with queues, retries, resumable transfers and any storage backend
+- **[Cult UI](https://www.cult-ui.com)** 🟡 `7` - Ready-to-use React components, Shadcn compatible
+- **[Skullet](https://skullet.lochie.me/)** 🟡 `7` - Skeleton states measured from sample data at runtime, no build step
 
 ### Game Development
 
 #### Game Engines
-- **[Construct 3](https://www.construct.net/en)** 🟡 `8` - No-code game development platform with a free tier for building prototypes
 - **[GDevelop](https://gdevelop.io/)** 🟢 `9` - No-code game creation tool with fast setup, suitable for quick prototypes
 - **[Godot](https://godotengine.org/)** 🟢 `9` - Open-source game engine, perfect for lightweight 2D and 3D games
+- **[Construct 3](https://www.construct.net/en)** 🟡 `8` - No-code game development platform with a free tier for building prototypes
 - **[PICO-8](https://www.lexaloffle.com/pico-8.php)** 🟡 `8` - Fantasy console that encourages small, but expressive designs
 - **[Unity](https://unity.com/)** 🟡 `8` - Beginner-friendly 2D/3D game engine with a free Personal plan
 
@@ -207,27 +207,27 @@
 - **[Dreamlo](https://dreamlo.com/)** 🟡 `7` - Add leaderboards and promocodes to your game
 
 #### Audio Tools
-- **[Audacity](https://www.audacityteam.org/)** 🟡 `8` - Free, open source, cross-platform audio software
 - **[BeepBox](https://www.beepbox.co)** 🟢 `9` - Online tool for sketching and sharing instrumental melodies
 - **[bfxr](https://www.bfxr.net/)** 🟢 `9` - Browser-based sound effects generator
-- **[Bosca Ceoil](https://boscaceoil.net/)** 🟡 `7` - Free, easy to use tool for creating music
+- **[Audacity](https://www.audacityteam.org/)** 🟡 `8` - Free, open source, cross-platform audio software
 - **[sfxr](https://sfxr.me/)** 🟡 `8` - Dead easy game sound effects generator
 - **[ZzFX](https://killedbyapixel.github.io/ZzFX/)** 🟡 `8` - Sound effect generator similar to BFXR/SFXR
+- **[Bosca Ceoil](https://boscaceoil.net/)** 🟡 `7` - Free, easy to use tool for creating music
 
 #### Graphics & Art Tools
-- **[Aseprite](https://www.aseprite.org/)** 🟡 `8` - Animated sprite editor and pixel art tool
-- **[Inkscape](https://inkscape.org/)** 🟡 `7` - Free and open source vector graphics editor
-- **[Krita](https://krita.org/)** 🟡 `8` - Professional free and open source painting program
-- **[Lospec Pixel Editor](https://lospec.com/pixel-editor/)** 🟡 `7` - Free pixel art program in your web browser
-- **[Magicavoxel](https://www.voxelmade.com/magicavoxel/)** 🟡 `8` - Free lightweight 8-bit voxel editor and path tracing renderer
-- **[Paint.NET](https://paint.net/)** 🟡 `7` - Free image and photo editing software
 - **[PiskelApp](https://www.piskelapp.com/)** 🟢 `9` - Free online editor for animated sprites & pixel art
+- **[Aseprite](https://www.aseprite.org/)** 🟡 `8` - Animated sprite editor and pixel art tool
+- **[Krita](https://krita.org/)** 🟡 `8` - Professional free and open source painting program
+- **[Magicavoxel](https://www.voxelmade.com/magicavoxel/)** 🟡 `8` - Free lightweight 8-bit voxel editor and path tracing renderer
+- **[Inkscape](https://inkscape.org/)** 🟡 `7` - Free and open source vector graphics editor
+- **[Lospec Pixel Editor](https://lospec.com/pixel-editor/)** 🟡 `7` - Free pixel art program in your web browser
+- **[Paint.NET](https://paint.net/)** 🟡 `7` - Free image and photo editing software
 - **[Pixelorama](https://github.com/Orama-Interactive/Pixelorama)** 🟡 `7` - Free and open source pixel art editor with Godot-Engine
 
 #### Color & Design Resources
-- **[BitFontMaker2](https://www.pentacom.jp/pentacom/bitfontmaker2/)** 🟡 `7` - Free online pixel font editor
 - **[Lospec Color Palette](https://lospec.com/palette-list)** 🟢 `9` - Searchable collection of palettes for pixel art
 - **[Removebg](https://www.remove.bg/)** 🟡 `8` - Remove backgrounds automatically in 5 seconds
+- **[BitFontMaker2](https://www.pentacom.jp/pentacom/bitfontmaker2/)** 🟡 `7` - Free online pixel font editor
 
 #### Game Design & Management
 - **[PureRef](https://www.pureref.com/)** 🟡 `7` - Free stand-alone program that keeps track of your reference images
@@ -237,11 +237,11 @@
 
 ### Generators & Snippets
 - **[bg.ibelick](https://bg.ibelick.com)** 🟡 `8` - Collection of modern background snippets
-- **[delphitools](https://delphi.tools)** 🟡 `7` - Small browser-only utilities with no login, registration or data collection
 - **[Haikei](https://app.haikei.app)** 🟡 `8` - Web-based tool to generate unique SVG design assets
-- **[Tailwind CSS Color Generator](https://uicolors.app/create)** 🟡 `7` - Generate Tailwind CSS color shades
 - **[Transitions.dev](https://transitions.dev/)** 🟡 `8` - 43+ crafted UI transitions plus an agent skill to drop them into your project
 - **[Vercel OG Image Playground](https://og-playground.vercel.app)** 🟡 `8` - Generate Open Graph images
+- **[delphitools](https://delphi.tools)** 🟡 `7` - Small browser-only utilities with no login, registration or data collection
+- **[Tailwind CSS Color Generator](https://uicolors.app/create)** 🟡 `7` - Generate Tailwind CSS color shades
 
 ### Inspiration & Ideas
 - **[Landbook](https://land-book.com/)** 🟡 `7` - Hand-picked website design gallery, filterable by page type and industry
@@ -251,17 +251,17 @@
 
 ### Mobile Development
 - **[Expo (React Native)](https://expo.dev/)** 🟢 `10` - Fast setup for cross-platform mobile development
-- **[Firebase Cloud Messaging](https://firebase.google.com/products/cloud-messaging/)** 🟡 `7` - Easy push notifications
 - **[Flutter](https://flutter.dev/)** 🟡 `8` - Google's UI toolkit for cross-platform apps
+- **[Firebase Cloud Messaging](https://firebase.google.com/products/cloud-messaging/)** 🟡 `7` - Easy push notifications
 
 ### Pitch & Demo
+- **[OBS Studio](https://obsproject.com/)** 🟢 `9` - Free, open-source screen recording and streaming for Windows, macOS and Linux
+- **[ScreenToGif](https://github.com/NickeManarin/ScreenToGif)** 🟢 `9` - Windows-only screen, webcam and sketchboard recorder with GIF and video export
 - **[ElevenLabs](https://elevenlabs.io)** 🟡 `8` - AI voiceover for demo videos when nobody on the team wants to narrate
 - **[Gamma](https://gamma.app/)** 🟡 `8` - Generates a pitch deck from a prompt or outline; free credits, exports to PPTX and Google Slides
 - **[Google Slides](https://workspace.google.com/products/slides/)** 🟡 `8` - Collaborative pitch deck the whole team can edit at once
 - **[Kdenlive](https://kdenlive.org/)** 🟡 `8` - Professional-grade, open-source video editor
 - **[Loom](https://www.loom.com/)** 🟡 `8` - Quick screen and camera recordings with a shareable link; free plan allows 25 videos of up to 5 minutes
-- **[OBS Studio](https://obsproject.com/)** 🟢 `9` - Free, open-source screen recording and streaming for Windows, macOS and Linux
-- **[ScreenToGif](https://github.com/NickeManarin/ScreenToGif)** 🟢 `9` - Windows-only screen, webcam and sketchboard recorder with GIF and video export
 
 ### Project Starters & Boilerplates
 - **[Hackathon Starter](https://github.com/sahat/hackathon-starter)** 🟡 `8` - Node.js web application boilerplate with auth and APIs
