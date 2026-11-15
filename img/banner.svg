@@ -3,11 +3,6 @@
   <g fill="none" stroke="#2f6bff" stroke-width="4">
     <path d="M24 64V24h40M1256 64V24h-40M24 256v40h40M1256 256v40h-40"/>
   </g>
-  <text x="64" y="128" font-family="Helvetica Neue, Arial, sans-serif" font-size="64" font-weight="700" fill="#fff">Awesome Hackathon <tspan fill="#2f6bff" font-style="italic">Resources</tspan></text>
-  <text x="64" y="186" font-family="Helvetica Neue, Arial, sans-serif" font-size="26" fill="#a1a1aa">Every tool scored before it gets in. Build, design, demo, win.</text>
-  <g font-family="Roboto Mono, Menlo, monospace" font-size="20" fill="#e4e4e7">
-    <rect x="64" y="222" width="190" height="44" rx="8" fill="#2f6bff"/>
-    <text x="84" y="251" fill="#fff">score ≥ 7 → in</text>
-    <text x="280" y="251">gates · score · watchlist · quarterly review</text>
-  </g>
+  <text x="64" y="150" font-family="Helvetica Neue, Arial, sans-serif" font-size="64" font-weight="700" fill="#fff">Awesome Hackathon <tspan fill="#2f6bff" font-style="italic">Resources</tspan></text>
+  <text x="64" y="208" font-family="Helvetica Neue, Arial, sans-serif" font-size="26" fill="#a1a1aa">Free tools to build, design, demo and win your next hackathon.</text>
 </svg>
