@@ -170,6 +170,24 @@ Every description written during this review was re-checked against its source p
 
 Stripe's global availability page lists India as "Preview" with contact-sales signup, and other countries are unsupported, so many teams can't open an account mid-event. Most hackathon projects don't take payments either. Re-scored: Speed 1, Cost 2, Demo 1, Maturity 2, Fit 1 = 7. It stays listed with an availability note but is out of Curator's Picks.
 
+### 2026-11-15 · Font resources
+
+Checked live; licenses from GitHub or the site. Fontshare's site confirms free fonts but not commercial terms, so the entry doesn't claim them.
+
+| Resource | S | C | D | M | F | Total | Decision |
+|---|:-:|:-:|:-:|:-:|:-:|:-:|---|
+| [Fontpair](https://fontpair.co/) | 2 | 2 | 2 | 1 | 1 | 8 | Add → Fonts |
+| [Fontshare](https://www.fontshare.com/) | 2 | 2 | 2 | 2 | 1 | 9 | Add → Fonts |
+| [Fontsource](https://fontsource.org/) | 2 | 2 | 1 | 2 | 2 | 9 | Add → Fonts |
+| [Google Fonts](https://fonts.google.com/) | 2 | 2 | 2 | 2 | 2 | 10 | Add → Fonts |
+| [Inter](https://rsms.me/inter/) | 2 | 2 | 2 | 2 | 1 | 9 | Add → Fonts |
+| [Typescale](https://typescale.com/) | 2 | 2 | 1 | 1 | 2 | 8 | Add → Fonts |
+| [Fontjoy](https://fontjoy.com/) | 2 | 2 | 2 | 1 | 0 | 7 | Watchlist: Fontpair covers pairing |
+| [Font Squirrel](https://www.fontsquirrel.com/) | 2 | 2 | 2 | 2 | 0 | 8 | Watchlist: overlaps Google Fonts and Fontshare |
+| [Bunny Fonts](https://fonts.bunny.net/) | 2 | 2 | 1 | 2 | 0 | 7 | Watchlist: GDPR mirror of Google Fonts |
+| [Monaspace](https://monaspace.githubnext.com/) | 2 | 2 | 0 | 2 | 0 | 6 | Reject: code font, invisible in demos |
+| [JetBrains Mono](https://www.jetbrains.com/lp/mono/) | 2 | 2 | 0 | 2 | 0 | 6 | Reject: code font, invisible in demos |
+
 ## Watchlist
 
 - **[ascii-reveal](https://github.com/quanhoangindex/ascii-reveal)** - Character-grid decode effect for React loading states. Promote once it has more users and releases.

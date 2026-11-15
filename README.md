@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/resources-153-2f6bff?style=flat-square" alt="153 resources" />
+  <img src="https://img.shields.io/badge/resources-159-2f6bff?style=flat-square" alt="159 resources" />
   <img src="https://img.shields.io/badge/last%20reviewed-2026--11--15-71717a?style=flat-square" alt="Last reviewed 2026-11-15" />
   <a href="https://github.com/Akashog123/Awesome-Hackathon-Resources"><img src="https://img.shields.io/badge/%E2%AD%90-star%20if%20useful-f59e0b?style=flat-square" alt="Star if useful" /></a>
 </p>
@@ -14,6 +14,8 @@
   <b>Tools and resources for hackathon participants to build, design, demo and win.</b><br/>
   Each resource shows its score out of 10 (🟢 9–10, 🟡 7–8). See <a href="CURATION.md">CURATION.md</a> for how it's scored.
 </p>
+
+<p align="center"><sub>Forked from <a href="https://github.com/HappyHackingSpace/Awesome-Hackathon">HappyHackingSpace/Awesome-Hackathon</a>, curated and extended for participants.</sub></p>
 
 > [!TIP]
 > **Found something useful?** ⭐ [Star this repo](https://github.com/Akashog123/Awesome-Hackathon-Resources) so other hackers can find it, and so you can find it again at your next hackathon.
@@ -145,7 +147,13 @@
 
 ### Design Resources
 #### Fonts
+- **[Fontpair](https://fontpair.co/)** 🟡 `8` - 3,000+ curated Google Fonts pairings you can preview with your own text
+- **[Fontshare](https://www.fontshare.com/)** 🟢 `9` - Free, quality fonts from the Indian Type Foundry
+- **[Fontsource](https://fontsource.org/)** 🟢 `9` - Self-host open-source fonts with npm packages or CSS, with CDN links available
 - **[Geist Font](https://vercel.com/font)** 🟡 `8` - Developer-focused typeface inspired by Swiss design
+- **[Google Fonts](https://fonts.google.com/)** 🟢 `10` - Large free, open font library, ready to embed or download
+- **[Inter](https://rsms.me/inter/)** 🟢 `9` - Open-source (OFL) typeface family, a common default for app UIs
+- **[Typescale](https://typescale.com/)** 🟡 `8` - Build a type scale, preview it and generate the CSS
 
 #### Icons
 - **[Its Hover](https://itshover.com)** 🟢 `9` - 260+ open-source animated React icons built with Motion
