@@ -9,8 +9,11 @@ Every entry is checked against [CURATION.md](CURATION.md): it must be live, free
 
 ## ⭐ Curator's Picks
 
-The highest-scoring additions (9/10). Start here when the clock is running:
+The highest-scoring additions (9–10/10). Start here when the clock is running:
 
+- **[Google AI Studio](https://aistudio.google.com/)** - Free Gemini API key in a minute, no card needed
+- **[Gradio](https://www.gradio.app/)** - Any Python model becomes a shareable demo
+- **[Stripe test mode](https://docs.stripe.com/testing)** - Demo a real checkout without real money
 - **[Amicro](https://amicro.dev)** - Copy-paste motion components that make a demo feel finished
 - **[boneyard](https://boneyard.vercel.app)** - Real-looking loading states in one CLI run
 - **[Hallmark](https://usehallmark.com)** / **[Taste Skill](https://tasteskill.dev)** - Stop your coding agent from shipping generic-looking UI
@@ -67,20 +70,28 @@ The highest-scoring additions (9/10). Start here when the clock is running:
 ## For Hackathon Participants 👨‍💻👩‍💻
 
 ### AI & Machine Learning
+- **[Google AI Studio](https://aistudio.google.com/)** - Prototype with Gemini models and get an API key with a free tier, no card needed
 - **[Google Colab](https://colab.research.google.com/)** - Free Jupyter notebook with GPU support for quick prototyping of ML models
+- **[Gradio](https://www.gradio.app/)** - Wrap any Python model in a shareable web demo in a few lines, with free hosting on Hugging Face Spaces
+- **[Groq](https://console.groq.com/)** - Very fast inference for open models (Llama, Qwen and others) with a free tier
 - **[Hugging Face Transformers](https://huggingface.co/docs/transformers/)** - Pre-trained NLP models, no need to train from scratch
 - **[IBM watsonx](https://www.ibm.com/products/watsonx)** - IBM's platform for foundation models, ML and AI agents (successor to Watson)
+- **[Ollama](https://ollama.com/)** - Run open LLMs locally with one command, so there are no API keys or rate limits on bad venue Wi-Fi
+- **[OpenRouter](https://openrouter.ai/)** - One OpenAI-compatible API for hundreds of models, including 25+ free ones
 - **[Replicate](https://replicate.com/)** - Run and fine-tune open-source models. Deploy custom models at scale
 - **[Runway](https://runway.com/)** - AI video and image generation for demo visuals and media hacks
+- **[Streamlit](https://streamlit.io/)** - Turn a Python script into an interactive data app, with free Community Cloud hosting
 - **[Teachable Machine](https://teachablemachine.withgoogle.com/)** - Train image, sound, and pose models in the browser without code
+- **[Vercel AI SDK](https://ai-sdk.dev/)** - Open-source TypeScript toolkit for streaming chat, tool calls and agents across any model provider
 
 ### AI Development Tools
 - **[Bolt](https://bolt.new/)** - AI-powered web development agent for full-stack applications in browser
 - **[Claude Code](https://code.claude.com/docs/en/overview)** - Agentic coding tool from Anthropic that operates in the terminal
-- **[Cursor](https://www.cursor.com/)** - AI-powered integrated development environment with advanced features
+- **[Cursor](https://www.cursor.com/)** - AI code editor built on VS Code with agent mode and codebase-aware chat
 - **[Devin Desktop (formerly Windsurf)](https://devin.ai/desktop)** - Cognition's editor and command center for running coding agents locally or in the cloud
 - **[GitHub Copilot](https://github.com/features/copilot)** - AI pair programmer that suggests code completions and entire functions
 - **[Hallmark](https://usehallmark.com)** - Design skill for Claude Code, Codex and OpenCode that picks a theme, lays out the page and lints out AI-slop patterns
+- **[Replit](https://replit.com/)** - Browser IDE with an AI agent, built-in database and one-click deploys; free plan available
 - **[Taste Skill](https://tasteskill.dev)** - Design skill for coding agents with art directions from 247 curated sites and a real-browser check
 
 ### APIs & Data Sources
@@ -90,14 +101,17 @@ The highest-scoring additions (9/10). Start here when the clock is running:
 - **[Mapbox](https://www.mapbox.com/)** - Easy-to-use maps and geolocation service with generous free tier
 - **[Mockaroo](https://www.mockaroo.com/)** - Generate up to 1,000 rows of test data in multiple formats
 - **[NewsAPI](https://newsapi.org/)** - Free access to recent news data from various sources
-- **[OpenAI API](https://developers.openai.com/api/docs/concepts)** - Pre-built NLP models for text generation and understanding
+- **[OpenAI API](https://developers.openai.com/api/docs/concepts)** - GPT models for text, vision, audio and agents (paid, usage-based)
+- **[Public APIs](https://github.com/public-apis/public-apis)** - Huge categorized list of free public APIs, many with no auth required
 - **[RapidAPI](https://rapidapi.com/)** - API marketplace to quickly find and test external APIs
 - **[SheetDB](https://sheetdb.io/)** - Turns Google Sheets into a REST API for quick MVP data handling
+- **[Stripe test mode](https://docs.stripe.com/testing)** - Free sandbox payments with test cards, so you can demo a real checkout flow without moving money
 - **[Swagger UI](https://swagger.io/)** - Tool for automatically documenting and testing REST APIs
 - **[Twilio](https://www.twilio.com/)** - Simple API for sending SMS and making calls, free trial with credits
 
 ### Authentication & User Management
 - **[Auth0](https://auth0.com/)** - Authentication service with social and passwordless login support
+- **[Better Auth](https://www.better-auth.com/)** - Open-source TypeScript auth library with email, OAuth, 2FA and orgs, self-hosted in your own database
 - **[Clerk](https://clerk.com/)** - Drop-in authentication and user management with easy MVP setup
 - **[Firebase Anonymous Auth](https://firebase.google.com/docs/auth/web/anonymous-auth)** - Quick setup for user tracking without full sign-up
 - **[Firebase Auth](https://firebase.google.com/products/auth)** - Simple authentication with social login support
@@ -107,9 +121,10 @@ The highest-scoring additions (9/10). Start here when the clock is running:
 
 ### Backend Development
 - **[ASP.NET](https://learn.microsoft.com/en-us/aspnet/core/)** - Robust Microsoft framework for modern web applications and APIs
+- **[Convex](https://www.convex.dev/)** - Reactive TypeScript backend with database, file storage, auth and crons; free plan
 - **[Express.js](https://expressjs.com/)** - Minimalist Node.js framework, easy REST API setup
 - **[FastAPI](https://fastapi.tiangolo.com/)** - Python framework for building APIs quickly with built-in docs
-- **[Firebase Functions](https://firebase.google.com/docs/functions)** - Serverless backend with fast deployment
+- **[Firebase Functions](https://firebase.google.com/docs/functions)** - Serverless functions triggered by Firebase events or HTTP; requires the pay-as-you-go Blaze plan
 - **[Flask](https://flask.palletsprojects.com/)** - Lightweight Python microframework for simple backends
 - **[Hasura](https://hasura.io/)** - GraphQL engine for PostgreSQL, instant GraphQL API creation
 - **[Manifest](https://manifest.build)** - Instant Headless CMS / Micro-backend in 1 file
@@ -153,7 +168,7 @@ The highest-scoring additions (9/10). Start here when the clock is running:
 - **[Google BigQuery Sandbox](https://docs.cloud.google.com/bigquery/docs/sandbox)** - Free data warehouse with SQL
 - **[Kaggle Datasets](https://www.kaggle.com/datasets)** - Access open datasets for data-driven MVPs
 - **[Looker Studio](https://lookerstudio.google.com/)** - Free data visualization for dashboards
-- **[Pandas Profiling](https://pandas-profiling.ydata.ai/)** - Auto-generate data analysis reports
+- **[ydata-profiling](https://docs.profiling.ydata.ai/)** - One-line exploratory data report for a pandas DataFrame (formerly Pandas Profiling)
 
 ### Data Visualization
 - **[Chart.js](https://www.chartjs.org/)** - Lightweight JavaScript library for frontend charts
@@ -167,21 +182,25 @@ The highest-scoring additions (9/10). Start here when the clock is running:
 - **[Airtable](https://airtable.com/)** - Easy-to-use database with spreadsheet interface
 - **[Firebase Firestore](https://firebase.google.com/products/firestore)** - Realtime NoSQL database with offline sync
 - **[MongoDB Atlas](https://www.mongodb.com/cloud/atlas)** - Managed NoSQL database with free tier
+- **[Neon](https://neon.com/)** - Serverless Postgres with instant branching, free plan with no card
 - **[Prisma Postgres](https://www.prisma.io/postgres)** - Managed PostgreSQL with free plan and zero cold starts
-- **[Supabase](https://supabase.com/)** - Open-source Firebase alternative with instant SQL database
+- **[Supabase](https://supabase.com/)** - Postgres with auth, storage, realtime and auto-generated APIs; free plan
+- **[Turso](https://turso.tech/)** - Edge SQLite (libSQL) databases, free plan with 100 databases and no card
 
 ### Deployment & Hosting
-- **[AWS Lambda Free Tier](https://aws.amazon.com/lambda/pricing/)** - Run code in response to events
-- **[Cloudflare Workers](https://developers.cloudflare.com/workers/)** - Serverless compute at the edge
+- **[AWS Lambda Free Tier](https://aws.amazon.com/lambda/pricing/)** - Event-driven serverless functions, 1M free requests per month
+- **[Cloudflare Workers](https://developers.cloudflare.com/workers/)** - Serverless functions at the edge, 100k free requests per day
 - **[deed.page](https://deed.page/)** - Publish a static demo to a permanent HTTPS URL with one `curl` PUT, no account; free plan, MCP server for AI agents
 - **[GitHub Pages](https://pages.github.com/)** - Free hosting for static websites
 - **[Google Cloud Functions Free Tier](https://cloud.google.com/functions/pricing)** - Serverless functions
 - **[Netlify](https://www.netlify.com/)** - Free static hosting with CI/CD from GitHub
 - **[Prisma Compute](https://www.prisma.io/compute)** - Host TypeScript apps next to Prisma Postgres, 1M requests/month free
+- **[Render](https://render.com/)** - Deploy web services, Postgres and static sites from a Git repo; free instances sleep when idle
 - **[Vercel](https://vercel.com/)** - One-click deployment with auto scaling and global CDN
 - **[Vercel Serverless Functions](https://vercel.com/docs/concepts/functions/serverless-functions)** - Built-in serverless functions
 
 ### Design & UI/UX
+- **[AI Design Guide: Design Systems](https://www.aidesign.guide/design-systems)** - Directory of 185 design systems, filterable by MCP, agent skills and llms.txt support, for picking a UI kit your coding agent can read
 - **[APPLORE](https://applore.app/app-icon-generator)** - Free app icon export in every iOS, Android and web size, no sign-up
 - **[Atlassian Design System](https://atlassian.design/design-system)** - Tokens, components and Figma libraries for Atlassian Forge apps (Codegeist and other Atlassian hackathons)
 - **[Blender](https://www.blender.org/)** - Free and open-source 3D computer graphics software
@@ -191,9 +210,10 @@ The highest-scoring additions (9/10). Start here when the clock is running:
 - **[Filee](https://filee.sh)** - Free, open-source offline file converter for Windows, macOS and Linux: drag images, PDFs, docs, video or audio onto a format, no upload
 - **[GIMP](https://www.gimp.org/)** - Open-source image editor comparable to Photoshop
 - **[Kdenlive](https://kdenlive.org/)** - Professional-grade, open-source video editor
+- **[Penpot](https://penpot.app/)** - Open-source Figma alternative that runs in the browser, free and self-hostable
 - **[Pixilart](https://www.pixilart.com/)** - Free browser-based pixel art app
 - **[ProtoPie](https://www.protopie.io/)** - Intuitive prototyping tool for interactive mockups
-- **[v0](https://v0.app/)** - Powerful tool for generating high-quality UIs and code
+- **[v0](https://v0.app/)** - Vercel's AI app builder that generates React and Next.js UI from a prompt or screenshot
 - **[Whimsical](https://whimsical.com/)** - Drag-and-drop wireframing tool for quick prototyping
 
 ### Design Resources
@@ -215,14 +235,16 @@ The highest-scoring additions (9/10). Start here when the clock is running:
 - **[Humaaans](https://www.humaaans.com)** - Mix-&-match illustrations of people
 - **[Open Peeps](https://www.openpeeps.com)** - Hand-drawn illustration library of people scenes
 - **[SVG Illustrations](https://lukaszadam.com/illustrations)** - Free SVG Illustrations
+- **[unDraw](https://undraw.co/)** - Free open-licensed SVG illustrations, recolorable to your brand on the site
 
 ### Frontend Development
 - **[Bootstrap](https://getbootstrap.com/)** - CSS framework with pre-designed responsive components
-- **[Next.js](https://nextjs.org/)** - Powers high-quality web apps leveraging React capabilities
+- **[Next.js](https://nextjs.org/)** - React framework with file routing, API routes and one-click Vercel deploys
 - **[Parcel](https://parceljs.org/)** - Zero-config bundler for quick app setup
 - **[React](https://react.dev/)** - JavaScript library with reusable components
 - **[SvelteKit](https://svelte.dev/)** - Fast and lightweight framework with minimal boilerplate
 - **[Tailwind CSS](https://tailwindcss.com/)** - Utility-based CSS framework for quick styling
+- **[Vite](https://vite.dev/)** - Instant dev server and fast builds for React, Vue, Svelte and vanilla projects
 - **[Vue.js](https://vuejs.org/)** - Lightweight, beginner-friendly framework for dynamic UIs
 
 #### UI Libraries
@@ -258,7 +280,7 @@ The highest-scoring additions (9/10). Start here when the clock is running:
 
 #### Game Development Tools
 - **[Clickteam Fusion](https://www.clickteam.com/clickteam-fusion-2-5-free-edition)** - Easy to use game engine for beginners
-- **[gbdk-2020](https://github.com/gbdk-2020/gbdk-2020)** - A C compiler, assembler, linker and set of libraries for the Z80
+- **[gbdk-2020](https://github.com/gbdk-2020/gbdk-2020)** - C toolchain for making Game Boy games, handy for retro-themed jams
 - **[LDtk](https://ldtk.io/)** - A fast, free, open source 2D level editor from the director of Dead Cells
 - **[Tiled](https://www.mapeditor.org/)** - Free, easy to use and flexible level editor for creating 2D tile maps
 
@@ -293,7 +315,7 @@ The highest-scoring additions (9/10). Start here when the clock is running:
 - **[Pyxel Edit](https://pyxeledit.com/)** - Pixel art drawing application designed for working with tiles
 
 #### Color & Design Resources
-- **[Autodraw](https://www.autodraw.com/)** - Online tool to predict the placeholder images you need
+- **[Autodraw](https://www.autodraw.com/)** - Turns rough doodles into clean drawings using AI
 - **[BitFontMaker2](https://www.pentacom.jp/pentacom/bitfontmaker2/)** - Free online pixel font editor
 - **[Easy Releasy](https://lemoncosmos.itch.io/easy-releasy)** - Template pack to create itch.io pages
 - **[Flat UI Colors 2](https://flatuicolors.com/)** - 280 handpicked colors split into 13 palettes
@@ -333,6 +355,7 @@ The highest-scoring additions (9/10). Start here when the clock is running:
 
 ### MCP Servers/Tools
 - **[GhidraMCP](https://github.com/LaurieWired/GhidraMCP)** - Model Context Protocol server for LLM reverse engineering
+- **[MCP Reference Servers](https://github.com/modelcontextprotocol/servers)** - Official reference MCP servers (filesystem, git, fetch, memory) and an index of community servers
 - **[MCP-Hydra](https://github.com/HappyHackingSpace/mcp-hydra)** - Cybersecurity toolkit connecting AI assistants to security tools
 - **[MCP-Scan](https://github.com/invariantlabs-ai/mcp-scan)** - MCP Security Scanner
 
@@ -341,11 +364,14 @@ The highest-scoring additions (9/10). Start here when the clock is running:
 - **[Firebase Cloud Messaging](https://firebase.google.com/products/cloud-messaging/)** - Easy push notifications
 - **[Flutter](https://flutter.dev/)** - Google's UI toolkit for cross-platform apps
 - **[Ionic](https://ionicframework.com/)** - Hybrid app framework using web technologies
-- **[React Native](https://reactnative.dev/)** - Hard setup but advanced cross-platform mobile development
+- **[React Native](https://reactnative.dev/)** - Native iOS and Android apps in React; pair with Expo for the fastest setup
 
 ### Pitch & Demo
 - **[ElevenLabs](https://elevenlabs.io)** - AI voiceover for demo videos when nobody on the team wants to narrate
+- **[Gamma](https://gamma.app/)** - Generates a pitch deck from a prompt or outline; free credits, exports to PPTX and Google Slides
 - **[Google Slides](https://workspace.google.com/products/slides/)** - Collaborative pitch deck the whole team can edit at once
+- **[Loom](https://www.loom.com/)** - Quick screen and camera recordings with a shareable link; free plan allows 25 videos of up to 5 minutes
+- **[OBS Studio](https://obsproject.com/)** - Free open-source screen recorder for polished demo videos with scenes, overlays and mic mixing
 
 ### Project Starters & Boilerplates
 - **[Hackathon Starter](https://github.com/sahat/hackathon-starter)** - Node.js web application boilerplate with auth and APIs
@@ -354,6 +380,7 @@ The highest-scoring additions (9/10). Start here when the clock is running:
 - **[Cypress](https://www.cypress.io/)** - JavaScript end-to-end testing framework
 - **[Jest](https://jestjs.io/)** - JavaScript testing framework with easy React setup
 - **[Mockoon](https://mockoon.com/)** - Mock API server to simulate APIs for testing
+- **[Playwright](https://playwright.dev/)** - Reliable end-to-end browser tests with auto-waiting and a codegen recorder
 - **[Postman](https://www.postman.com/)** - API testing tool with intuitive interface
 - **[Selenium IDE](https://www.selenium.dev/selenium-ide/)** - Browser extension for creating UI tests
 

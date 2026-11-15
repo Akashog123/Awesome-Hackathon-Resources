@@ -95,8 +95,48 @@ All 249 links were checked with curl, and every non-200 result was confirmed in 
 
 **Kept, to recheck next review:** pygame.org (temporarily down for maintenance), security and CTF tools (relevant only to security hackathons)
 
+### 2026-11-15 · Alternatives and gap-fillers
+
+Free tiers were checked on each pricing page, and OSS activity via GitHub (all pushed within the last month unless noted).
+
+| Resource | Speed | Cost | Demo | Maturity | Fit | Total | Decision | Replaces / fills |
+|----------|:-:|:-:|:-:|:-:|:-:|:-:|---|---|
+| [Google AI Studio](https://aistudio.google.com/) | 2 | 2 | 2 | 2 | 2 | 10 | Add → AI & ML | Free LLM API (gap) |
+| [Gradio](https://www.gradio.app/) | 2 | 2 | 2 | 2 | 2 | 10 | Add → AI & ML | ML demo UI (gap) |
+| [Stripe test mode](https://docs.stripe.com/testing) | 2 | 2 | 2 | 2 | 2 | 10 | Add → APIs | Demo payments (gap) |
+| [Groq](https://console.groq.com/) | 2 | 2 | 1 | 2 | 2 | 9 | Add → AI & ML | Free fast inference |
+| [OpenRouter](https://openrouter.ai/) | 2 | 2 | 1 | 2 | 2 | 9 | Add → AI & ML | 25+ free models, one API |
+| [Ollama](https://ollama.com/) | 2 | 2 | 1 | 2 | 2 | 9 | Add → AI & ML | Offline LLMs |
+| [Vercel AI SDK](https://ai-sdk.dev/) | 2 | 2 | 1 | 2 | 2 | 9 | Add → AI & ML | LLM app plumbing |
+| [Streamlit](https://streamlit.io/) | 2 | 2 | 2 | 2 | 1 | 9 | Add → AI & ML | Data apps (overlaps Gradio) |
+| [Public APIs](https://github.com/public-apis/public-apis) | 2 | 2 | 1 | 2 | 2 | 9 | Add → APIs | API discovery |
+| [Convex](https://www.convex.dev/) | 2 | 2 | 1 | 2 | 2 | 9 | Add → Backend | Realtime backend |
+| [Neon](https://neon.com/) | 2 | 2 | 1 | 2 | 2 | 9 | Add → Database | PlanetScale |
+| [Render](https://render.com/) | 2 | 2 | 1 | 2 | 2 | 9 | Add → Deployment | Glitch |
+| [Vite](https://vite.dev/) | 2 | 2 | 1 | 2 | 2 | 9 | Add → Frontend | Fast bundler |
+| [MCP Reference Servers](https://github.com/modelcontextprotocol/servers) | 2 | 2 | 1 | 2 | 2 | 9 | Add → MCP | Official servers |
+| [OBS Studio](https://obsproject.com/) | 1 | 2 | 2 | 2 | 2 | 9 | Add → Pitch & Demo | Chronolapse, demo recording |
+| [Better Auth](https://www.better-auth.com/) | 2 | 2 | 1 | 2 | 1 | 8 | Add → Auth | OSS auth |
+| [Turso](https://turso.tech/) | 2 | 2 | 1 | 2 | 1 | 8 | Add → Database | Edge SQLite |
+| [Penpot](https://penpot.app/) | 1 | 2 | 1 | 2 | 2 | 8 | Add → Design | Adobe XD |
+| [AI Design Guide: Design Systems](https://www.aidesign.guide/design-systems) | 2 | 2 | 1 | 1 | 2 | 8 | Add → Design | Agent-readable UI kits; promoted from watchlist after user review |
+| [unDraw](https://undraw.co/) | 2 | 2 | 1 | 2 | 1 | 8 | Add → Illustrations | Popsy |
+| [Loom](https://www.loom.com/) | 2 | 1 | 2 | 2 | 1 | 8 | Add → Pitch & Demo | Quick demo videos |
+| [Gamma](https://gamma.app/) | 2 | 1 | 2 | 2 | 1 | 8 | Add → Pitch & Demo | AI pitch decks |
+| [Replit](https://replit.com/) | 2 | 1 | 1 | 2 | 1 | 7 | Add → AI Dev Tools | Glitch-style in-browser IDE |
+| [Playwright](https://playwright.dev/) | 1 | 2 | 0 | 2 | 2 | 7 | Add → Testing | Modern E2E tests |
+| [tldraw](https://www.tldraw.com/) | 2 | 2 | 0 | 2 | 0 | 6 | Watchlist | Excalidraw and Miro already cover it |
+| [Beeceptor](https://beeceptor.com/) | 2 | 1 | 0 | 2 | 1 | 6 | Watchlist | Mocky; Mockoon/JSONPlaceholder cover it |
+| [PocketBase](https://pocketbase.io/) | – | – | – | – | – | – | Hold | GitHub repo archived with no stated move |
+| [create-t3-app](https://create.t3.gg/) | 2 | 2 | 1 | 1 | 1 | 7 | Hold | No commits since Dec 2025 |
+
+**Descriptions rewritten** to say what the tool does and what it costs: Cursor, OpenAI API (now marked paid), Firebase Functions (needs Blaze plan), ydata-profiling (renamed from Pandas Profiling), Supabase, AWS Lambda, Cloudflare Workers, v0, Next.js, gbdk-2020, Autodraw, React Native.
+
 ## Watchlist
 
 - **[ascii-reveal](https://github.com/quanhoangindex/ascii-reveal)** - Character-grid decode effect for React loading states. Promote once it has more users and releases.
 - **[posts.design](https://posts.design)** - Social post and OG image inspiration. Promote if launch or announcement assets get their own section.
-- **[The AI Design Guide](https://aidesign.guide)** - Guides for agentic design workflows. Promote if a free, standalone resource ships.
+- **[The AI Design Guide](https://aidesign.guide)** - Weekly agentic design guides (its Design Systems directory is already listed). Promote if the guides become a free standalone resource.
+- **[tldraw](https://www.tldraw.com/)** - Infinite canvas whiteboard. Promote if Excalidraw falls short.
+- **[Beeceptor](https://beeceptor.com/)** - Hosted mock API, 50 requests/day free. Promote if a hosted mock is needed beyond Mockoon.
+- **[PocketBase](https://pocketbase.io/)** - Single-file backend. Re-check why the repo was archived.
