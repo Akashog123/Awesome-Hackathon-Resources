@@ -103,7 +103,7 @@ Free tiers were checked on each pricing page, and OSS activity via GitHub (all p
 |----------|:-:|:-:|:-:|:-:|:-:|:-:|---|---|
 | [Google AI Studio](https://aistudio.google.com/) | 2 | 2 | 2 | 2 | 2 | 10 | Add → AI & ML | Free LLM API (gap) |
 | [Gradio](https://www.gradio.app/) | 2 | 2 | 2 | 2 | 2 | 10 | Add → AI & ML | ML demo UI (gap) |
-| [Stripe test mode](https://docs.stripe.com/testing) | 2 | 2 | 2 | 2 | 2 | 10 | Add → APIs | Demo payments (gap) |
+| [Stripe test mode](https://docs.stripe.com/testing) | 1 | 2 | 1 | 2 | 1 | 7 | Add → APIs | Demo payments; re-scored from 10 (see below) |
 | [Groq](https://console.groq.com/) | 2 | 2 | 1 | 2 | 2 | 9 | Add → AI & ML | Free fast inference |
 | [OpenRouter](https://openrouter.ai/) | 2 | 2 | 1 | 2 | 2 | 9 | Add → AI & ML | 25+ free models, one API |
 | [Ollama](https://ollama.com/) | 2 | 2 | 1 | 2 | 2 | 9 | Add → AI & ML | Offline LLMs |
@@ -166,6 +166,10 @@ Every description written during this review was re-checked against its source p
 | Easy Releasy | Game Hosting & Marketing | itch.io page templates |
 | APPLORE | Generators & Snippets | app icon generator |
 
+### 2026-11-15 · Stripe re-scored (10 → 7)
+
+Stripe's global availability page lists India as "Preview" with contact-sales signup, and other countries are unsupported, so many teams can't open an account mid-event. Most hackathon projects don't take payments either. Re-scored: Speed 1, Cost 2, Demo 1, Maturity 2, Fit 1 = 7. It stays listed with an availability note but is out of Curator's Picks.
+
 ## Watchlist
 
 - **[ascii-reveal](https://github.com/quanhoangindex/ascii-reveal)** - Character-grid decode effect for React loading states. Promote once it has more users and releases.
@@ -175,13 +179,197 @@ Every description written during this review was re-checked against its source p
 - **[Beeceptor](https://beeceptor.com/)** - Hosted mock API, 50 requests/day free. Promote if a hosted mock is needed beyond Mockoon.
 - **[PocketBase](https://pocketbase.io/)** - Single-file backend. Re-check why the repo was archived.
 
+
+### Moved out of the README · 2026-11-15
+
+88 entries scored under 7 or failed the free-to-use gate. Kept here verbatim so any can be restored by pasting the line back into its section once it re-scores 7+.
+
+
+**AI & Machine Learning**
+
+- **[IBM watsonx](https://www.ibm.com/products/watsonx)** ⚪ `5` - IBM's enterprise AI portfolio for building AI apps, managing data and governing models
+- **[OpenAI API](https://developers.openai.com/api/docs/concepts)** ⚪ `7` - GPT models for text, vision, audio and agents (paid, usage-based)
+
+**AI Development Tools**
+
+- **[Claude Code](https://code.claude.com/docs/en/overview)** ⚪ `7` - Agentic coding tool from Anthropic that operates in the terminal
+- **[Devin Desktop (formerly Windsurf)](https://devin.ai/desktop)** ⚪ `5` - Cognition's editor and command center for running coding agents locally or in the cloud
+
+**APIs & Data Sources**
+
+- **[CurlShot](https://curlshot.com/)** ⚪ `5` - Screenshot API: one GET request turns a URL into PNG, JPEG, WebP or PDF (POST for raw HTML), free plan of 100 screenshots/month
+- **[RapidAPI](https://rapidapi.com/)** ⚪ `6` - API marketplace to quickly find and test external APIs
+- **[SheetDB](https://sheetdb.io/)** ⚪ `6` - Turns Google Sheets into a REST API for quick MVP data handling
+
+**Authentication & User Management**
+
+- **[Auth0](https://auth0.com/)** ⚪ `6` - Authentication service with social and passwordless login support
+- **[Firebase Anonymous Auth](https://firebase.google.com/docs/auth/web/anonymous-auth)** ⚪ `6` - Quick setup for user tracking without full sign-up
+- **[Magic Link](https://magic.link/)** ⚪ `5` - Passwordless login with email, frictionless user authentication
+- **[NextAuth.js](https://next-auth.js.org/)** ⚪ `5` - Authentication for Next.js applications
+- **[SuperTokens](https://supertokens.com/)** ⚪ `5` - Open-source authentication with pre-built integrations
+
+**Backend Development**
+
+- **[ASP.NET](https://learn.microsoft.com/en-us/aspnet/core/)** ⚪ `5` - Robust Microsoft framework for modern web applications and APIs
+- **[Firebase Functions](https://firebase.google.com/docs/functions)** ⚪ `4` - Serverless functions triggered by Firebase events or HTTP; requires the pay-as-you-go Blaze plan
+- **[Manifest](https://manifest.build)** ⚪ `6` - Instant Headless CMS / Micro-backend in 1 file
+
+**Browser Extensions & Dev Tools**
+
+- **[CSSViewer](https://chromewebstore.google.com/detail/cssviewer/ggfgijbpiheegefliciemofobhmofgce)** ⚪ `5` - Simple CSS property viewer
+- **[WhatFont](https://chromewebstore.google.com/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm)** ⚪ `6` - Easiest way to identify fonts on web pages
+
+**Collaboration & Communication**
+
+- **[Coda](https://coda.io/)** ⚪ `5` - Document tool blending text and tables for project tracking
+- **[Slack](https://slack.com/)** ⚪ `5` - Communication tool with channels for team coordination
+- **[Trello](https://trello.com/)** ⚪ `6` - Kanban-style board for task tracking
+
+**Cybersecurity Tools**
+
+- **[Frida](https://frida.re/)** ⚪ `6` - Reverse engineering tool for Android and Windows applications
+- **[Metasploit](https://www.metasploit.com/)** ⚪ `6` - Tool for penetration testing by cybersecurity professionals
+- **[OWASP ZAP](https://www.zaproxy.org/)** ⚪ `6` - Open-source web application security scanner
+- **[Sudomy](https://github.com/Screetsec/Sudomy)** ⚪ `4` - Subdomain enumeration tool for reconnaissance
+- **[Wfuzz](https://github.com/xmendez/wfuzz)** ⚪ `4` - Web application fuzz testing CLI tool
+- **[Wireshark](https://www.wireshark.org/)** ⚪ `6` - Network protocol analyzer for debugging
+
+**Data Visualization**
+
+- **[ToolKnit CSV Chart Maker](https://toolknit.com/tools/chart-maker.html)** ⚪ `6` - Turn pasted CSV into charts for a demo or pitch, with editable labels and PNG or interactive HTML export
+
+**Database & Storage**
+
+- **[Prisma Postgres](https://www.prisma.io/postgres)** ⚪ `6` - Managed PostgreSQL with free plan and zero cold starts
+
+**Deployment & Hosting**
+
+- **[AWS Lambda Free Tier](https://aws.amazon.com/lambda/pricing/)** ⚪ `3` - Event-driven serverless functions, 1M free requests per month
+- **[deed.page](https://deed.page/)** ⚪ `6` - Publish a static demo to a permanent HTTPS URL with one `curl` PUT, no account; free plan, MCP server for AI agents
+- **[Google Cloud Functions Free Tier](https://cloud.google.com/functions/pricing)** ⚪ `3` - Serverless functions
+- **[Prisma Compute](https://www.prisma.io/compute)** ⚪ `5` - Host TypeScript apps next to Prisma Postgres, 1M requests/month free
+- **[Vercel Serverless Functions](https://vercel.com/docs/concepts/functions/serverless-functions)** ⚪ `6` - Built-in serverless functions
+
+**Design & UI/UX**
+
+- **[GIMP](https://www.gimp.org/)** ⚪ `6` - Open-source image editor comparable to Photoshop
+- **[Lunacy](https://icons8.com/lunacy)** ⚪ `5` - Free design alternative to Figma
+- **[ProtoPie](https://www.protopie.io/)** ⚪ `4` - Intuitive prototyping tool for interactive mockups
+- **[Whimsical](https://whimsical.com/)** ⚪ `6` - Drag-and-drop wireframing tool for quick prototyping
+
+**Fonts**
+
+- **[Onest](https://github.com/simpals/onest)** ⚪ `6` - Geometric and humanistic font blend
+
+**Icons**
+
+- **[FaviconDL](https://favicondl.com/)** ⚪ `5` - Free favicon extractor and no-key API: extract available ICO/PNG/SVG/Apple touch icons and preserve their original size when possible
+- **[SVGicons](https://svgicons.com/)** ⚪ `6` - Search and preview open-source SVG icon sets, with copyable SVG and per-set license information
+
+**Illustrations**
+
+- **[404 Illustrations (Error404.fun)](https://error404.fun)** ⚪ `5` - Royalty free illustrations for 404 pages
+- **[404 Illustrations (Kapwing)](https://www.kapwing.com/404-illustrations)** ⚪ `6` - Hand-crafted collection for 404 pages
+- **[SVG Illustrations](https://lukaszadam.com/illustrations)** ⚪ `6` - Free SVG Illustrations
+
+**Frontend Development**
+
+- **[Parcel](https://parceljs.org/)** ⚪ `5` - Zero-config bundler for quick app setup
+
+**Game Engines**
+
+- **[GameMaker](https://gamemaker.io/en)** ⚪ `6` - 2D game engine, free for non-commercial use
+- **[Heaps](https://heaps.io/)** ⚪ `4` - Mature cross platform graphics engine designed for high performance games
+- **[Unreal Engine](https://www.unrealengine.com/)** ⚪ `6` - Powerful engine with a steep learning curve, great for high-quality 3D games
+
+**Frameworks**
+
+- **[CraftyJS](https://craftyjs.com/)** ⚪ `4` - Free and lightweight JavaScript framework for 2D games
+- **[libGDX](https://libgdx.com/)** ⚪ `6` - Cross-platform Java game development framework based on OpenGL
+- **[olcPixelGameEngine](https://github.com/OneLoneCoder/olcPixelGameEngine)** ⚪ `5` - Open source single-file prototyping and game-engine framework in C++
+- **[Pixelbox.js](https://pixwlk.itch.io/pixelbox)** ⚪ `5` - Lightweight Javascript engine for browser games
+
+**Game Development Tools**
+
+- **[Clickteam Fusion](https://www.clickteam.com/clickteam-fusion-2-5-free-edition)** ⚪ `4` - Easy to use game engine for beginners
+- **[gbdk-2020](https://github.com/gbdk-2020/gbdk-2020)** ⚪ `5` - C toolchain for Game Boy games (plus a few other retro consoles), handy for retro-themed jams
+
+**Online Services**
+
+- **[YogurtTheHorse Leaderboards](https://github.com/YogurtTheHorse/highscores)** ⚪ `4` - Free to use leaderboards with open-source server side
+
+**Audio Tools**
+
+- **[FamiStudio](https://famistudio.org/)** ⚪ `6` - Simple music editor for NES/Famicom chiptunes
+- **[LMMS](https://lmms.io/)** ⚪ `5` - Free cross-platform alternative to commercial programs like FL Studio
+- **[MuseScore](https://musescore.org/)** ⚪ `6` - Create, play and print beautiful sheet music
+- **[Tonnoform](https://nikos1001.github.io/Tonnoform/)** ⚪ `5` - Easy to use open-source 8 bit music making tool
+- **[Tracktion Waveform Free](https://www.tracktion.com/products/waveform-free)** ⚪ `5` - Free, cross-platform and intuitive audio workstation
+
+**Graphics & Art Tools**
+
+- **[BulkPicTools](https://bulkpictools.com/)** ⚪ `6` - Free browser-based bulk image processor. Compress, convert (HEIC/WebP/AVIF/PNG/JPG), resize, crop, and watermark 1,000+ images at once — no upload, no account, works offline. Perfect for quickly optimizing demo screenshots and pitch deck assets.
+- **[DeepMotion](https://www.deepmotion.com/)** ⚪ `6` - Text to 3D animation and Video to 3D animation app
+- **[FireAlpaca](http://firealpaca.com/)** ⚪ `5` - Free digital painting software for Mac and Windows
+- **[Pixilart](https://www.pixilart.com/)** ⚪ `6` - Free browser-based pixel art app
+- **[Pyxel Edit](https://pyxeledit.com/)** ⚪ `3` - Pixel art drawing application designed for working with tiles
+
+**Color & Design Resources**
+
+- **[Autodraw](https://www.autodraw.com/)** ⚪ `6` - Turns rough doodles into clean drawings using AI
+- **[Flat UI Colors 2](https://flatuicolors.com/)** ⚪ `6` - 280 handpicked colors split into 13 palettes
+- **[Smart upscaler](https://icons8.com/upscaler)** ⚪ `5` - Enlarge and enhance images automatically using AI
+- **[ZzArt](https://zzart.3d2k.com/)** ⚪ `6` - Evolve HD textures for use in your games
+- **[ZzSprite](https://killedbyapixel.github.io/ZzSprite/)** ⚪ `6` - Procedurally generate tiny pixel art sprites
+
+**Game Design & Management**
+
+- **[Machinations](https://machinations.io/)** ⚪ `5` - Free online tool to prototype the internal economy of your game
+
+**Game Hosting & Marketing**
+
+- **[Easy Releasy](https://lemoncosmos.itch.io/easy-releasy)** ⚪ `6` - Template pack to create itch.io pages
+
+**Generators & Snippets**
+
+- **[APPLORE](https://applore.app/app-icon-generator)** ⚪ `6` - Free app icon export in every iOS, Android and web size, no sign-up
+- **[Gradiently](https://gradienty.codes)** ⚪ `5` - Tailwind Gradient Generator for stunning visuals
+- **[Scrollbar.app](https://scrollbar.app)** ⚪ `4` - Simple CSS scrollbar editor
+
+**Inspiration & Ideas**
+
+- **[CodeTrendy](https://codetrendy.com/)** ⚪ `5` - Curated directory of newly launched startups, SaaS and AI tools to browse for project ideas, with a free read-only MCP server
+- **[HACKERS](https://hackers.pocketplay.win/en/)** ⚪ `6` - Live Devpost hackathons and Kaggle competitions ranked by a beginner score, with deadlines and first-timer guides
+- **[Saaspo](https://saaspo.com/)** ⚪ `6` - Best SaaS web design inspiration
+- **[saasui.design](https://saasui.design/)** ⚪ `4` - Top-tier SaaS application designs showcase
+- **[ScreensDesign (formerly SCRNSHTS)](https://screensdesign.com/store-screenshots/)** ⚪ `4` - Hand-picked collection of app store design screenshots
+
+**MCP Servers/Tools**
+
+- **[GhidraMCP](https://github.com/LaurieWired/GhidraMCP)** ⚪ `5` - Model Context Protocol server for LLM reverse engineering
+- **[MCP-Hydra](https://github.com/HappyHackingSpace/mcp-hydra)** ⚪ `4` - Cybersecurity toolkit connecting AI assistants to security tools
+- **[MCP-Scan](https://github.com/invariantlabs-ai/mcp-scan)** ⚪ `6` - MCP Security Scanner
+
+**Mobile Development**
+
+- **[Ionic](https://ionicframework.com/)** ⚪ `6` - Hybrid app framework using web technologies
+- **[React Native](https://reactnative.dev/)** ⚪ `6` - Native iOS and Android apps in React; pair with Expo for the fastest setup
+
+**Testing & Quality Assurance**
+
+- **[Cypress](https://www.cypress.io/)** ⚪ `5` - JavaScript end-to-end testing framework
+- **[Postman](https://www.postman.com/)** ⚪ `6` - API testing tool with intuitive interface
+- **[Selenium IDE](https://www.selenium.dev/selenium-ide/)** ⚪ `5` - Browser extension for creating UI tests
+- **[Swagger UI](https://swagger.io/)** ⚪ `6` - Tool for automatically documenting and testing REST APIs
+
 ## Full scorecard
 
 Every README entry, scored 2026-11-15 (242 entries). S = Speed, C = Cost, D = Demo impact, M = Maturity, F = Fit.
 
-### Under review
+### Moved to watchlist
 
-88 entries score under 7 or fail the *usable free* gate. Per section 3 they belong on the watchlist or out of the list; they stay marked ⚪ until a removal pass.
+88 entries score under 7 or fail the *usable free* gate. Per section 3 they belong on the watchlist or out of the list; they were moved out of the README on 2026-11-15 (see Watchlist).
 
 | Resource | Section | Total | Note |
 |---|---|:-:|---|
@@ -322,7 +510,7 @@ Every README entry, scored 2026-11-15 (242 entries). S = Speed, C = Cost, D = De
 | [Public APIs](https://github.com/public-apis/public-apis) | 2 | 2 | 1 | 2 | 2 | 🟢 9 |
 | [RapidAPI](https://rapidapi.com/) | 2 | 1 | 0 | 2 | 1 | ⚪ 6 |
 | [SheetDB](https://sheetdb.io/) | 2 | 1 | 1 | 1 | 1 | ⚪ 6 |
-| [Stripe test mode](https://docs.stripe.com/testing) | 2 | 2 | 2 | 2 | 2 | 🟢 10 |
+| [Stripe test mode](https://docs.stripe.com/testing) | 1 | 2 | 1 | 2 | 1 | 🟡 7 |
 | [Swagger UI](https://swagger.io/) | 1 | 2 | 0 | 2 | 1 | ⚪ 6 |
 | [Twilio](https://www.twilio.com/) | 1 | 1 | 2 | 2 | 1 | 🟡 7 |
 
