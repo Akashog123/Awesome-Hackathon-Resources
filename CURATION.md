@@ -77,6 +77,24 @@ Re-check the list every quarter:
 | [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | meta | | | | | | Add → Related Awesome Lists | |
 | [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) | meta | | | | | | Add → Related Awesome Lists | |
 
+### 2026-11-15 · Link audit and cleanup
+
+All 249 links were checked with curl, and every non-200 result was confirmed in a real browser. Cloudflare challenge pages count as live.
+
+**Fixed (verified working):**
+- Renamed or moved: Windsurf → Devin Desktop, Clerk.dev → Clerk, RunwayML → Runway, IBM Watson → IBM watsonx, GameMaker Studio → GameMaker, SCRNSHTS → ScreensDesign
+- New URLs: Claude Code, CoinGecko, OpenAI API, Moralis, MetaMask, Notion, BigQuery Sandbox, Draw.io, v0, Radix Icons, React, Paint.NET, Easy Releasy, Google Slides
+- ScreenToGif now links to its GitHub repo (still maintained; its website redirects elsewhere)
+- Description fixes: Radix Icons, FamiStudio (NES, not SNES), bfxr (now runs in the browser), Unity
+
+**Removed, dead or failing a gate:** Mocky (down), Glitch (hosting ended), InVision Freehand (shut down, redirects to Miro), Geist Icons (page gone), Popsy (DNS error), cgMusic (404), Chronolapse (bad TLS certificate), ZBrush (paid, link 404), Adobe XD (discontinued), PlanetScale (no free tier)
+
+**Removed, not useful to participants:** VPN & Privacy section (1.1.1.1, BrowsecVPN, ProtonVPN, TouchVPN), Toggl Track, Pomofocus, TomatoTimer, YouLearn.AI and its LLM section, Fivetran, Confluent Kafka, LibreOffice, Unarkhive, Evernote Design, Stability.ai
+
+**Removed duplicates (one section per tool):** Unity Personal, plus the second Blender, Figma, GIMP and Miro entries
+
+**Kept, to recheck next review:** pygame.org (temporarily down for maintenance), security and CTF tools (relevant only to security hackathons)
+
 ## Watchlist
 
 - **[ascii-reveal](https://github.com/quanhoangindex/ascii-reveal)** - Character-grid decode effect for React loading states. Promote once it has more users and releases.

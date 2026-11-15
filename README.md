@@ -52,13 +52,11 @@ The highest-scoring additions (9/10). Start here when the clock is running:
     - [Game Hosting & Marketing](#game-hosting--marketing)
 18. [Generators & Snippets](#generators--snippets)
 19. [Inspiration & Ideas](#inspiration--ideas)
-20. [LLM Models/Tools/Services](#llm-modelstoolsservices)
-21. [MCP Servers/Tools](#mcp-serverstools)
-22. [Mobile Development](#mobile-development)
-23. [Pitch & Demo](#pitch--demo)
-24. [Project Starters & Boilerplates](#project-starters--boilerplates)
-25. [Testing & Quality Assurance](#testing--quality-assurance)
-26. [VPN & Privacy](#vpn--privacy)
+20. [MCP Servers/Tools](#mcp-serverstools)
+21. [Mobile Development](#mobile-development)
+22. [Pitch & Demo](#pitch--demo)
+23. [Project Starters & Boilerplates](#project-starters--boilerplates)
+24. [Testing & Quality Assurance](#testing--quality-assurance)
 
 ### More
 - [Related Awesome Lists](#related-awesome-lists)
@@ -71,29 +69,28 @@ The highest-scoring additions (9/10). Start here when the clock is running:
 ### AI & Machine Learning
 - **[Google Colab](https://colab.research.google.com/)** - Free Jupyter notebook with GPU support for quick prototyping of ML models
 - **[Hugging Face Transformers](https://huggingface.co/docs/transformers/)** - Pre-trained NLP models, no need to train from scratch
-- **[IBM Watson AI](https://www.ibm.com/cloud/watson)** - NLP, vision, and language tools with free tier for basic tasks
+- **[IBM watsonx](https://www.ibm.com/products/watsonx)** - IBM's platform for foundation models, ML and AI agents (successor to Watson)
 - **[Replicate](https://replicate.com/)** - Run and fine-tune open-source models. Deploy custom models at scale
-- **[RunwayML](https://runwayml.com/)** - No-code tool for computer vision, quickly deploys AI models for images or videos
+- **[Runway](https://runway.com/)** - AI video and image generation for demo visuals and media hacks
 - **[Teachable Machine](https://teachablemachine.withgoogle.com/)** - Train image, sound, and pose models in the browser without code
 
 ### AI Development Tools
 - **[Bolt](https://bolt.new/)** - AI-powered web development agent for full-stack applications in browser
-- **[Claude Code](https://docs.anthropic.com/en/docs/claude-code)** - Agentic coding tool from Anthropic that operates in the terminal
+- **[Claude Code](https://code.claude.com/docs/en/overview)** - Agentic coding tool from Anthropic that operates in the terminal
 - **[Cursor](https://www.cursor.com/)** - AI-powered integrated development environment with advanced features
+- **[Devin Desktop (formerly Windsurf)](https://devin.ai/desktop)** - Cognition's editor and command center for running coding agents locally or in the cloud
 - **[GitHub Copilot](https://github.com/features/copilot)** - AI pair programmer that suggests code completions and entire functions
 - **[Hallmark](https://usehallmark.com)** - Design skill for Claude Code, Codex and OpenCode that picks a theme, lays out the page and lints out AI-slop patterns
 - **[Taste Skill](https://tasteskill.dev)** - Design skill for coding agents with art directions from 247 curated sites and a real-browser check
-- **[Windsurf](https://codeium.com/windsurf)** - AI-powered code editor with real-time completion and suggestions
 
 ### APIs & Data Sources
-- **[CoinGecko](https://www.coingecko.com/en/api/documentation)** - Cryptocurrency price, market, and developer/social data
+- **[CoinGecko](https://docs.coingecko.com/)** - Cryptocurrency price, market, and developer/social data
 - **[CurlShot](https://curlshot.com/)** - Screenshot API: one GET request turns a URL into PNG, JPEG, WebP or PDF (POST for raw HTML), free plan of 100 screenshots/month
 - **[JsonPlaceholder](https://jsonplaceholder.typicode.com/)** - Fake online REST API for quick prototyping and testing
 - **[Mapbox](https://www.mapbox.com/)** - Easy-to-use maps and geolocation service with generous free tier
 - **[Mockaroo](https://www.mockaroo.com/)** - Generate up to 1,000 rows of test data in multiple formats
-- **[Mocky](https://mocky.io/)** - Tool for generating custom mock APIs
 - **[NewsAPI](https://newsapi.org/)** - Free access to recent news data from various sources
-- **[OpenAI API](https://platform.openai.com/docs/introduction)** - Pre-built NLP models for text generation and understanding
+- **[OpenAI API](https://developers.openai.com/api/docs/concepts)** - Pre-built NLP models for text generation and understanding
 - **[RapidAPI](https://rapidapi.com/)** - API marketplace to quickly find and test external APIs
 - **[SheetDB](https://sheetdb.io/)** - Turns Google Sheets into a REST API for quick MVP data handling
 - **[Swagger UI](https://swagger.io/)** - Tool for automatically documenting and testing REST APIs
@@ -101,7 +98,7 @@ The highest-scoring additions (9/10). Start here when the clock is running:
 
 ### Authentication & User Management
 - **[Auth0](https://auth0.com/)** - Authentication service with social and passwordless login support
-- **[Clerk.dev](https://clerk.dev/)** - Drop-in authentication and user management with easy MVP setup
+- **[Clerk](https://clerk.com/)** - Drop-in authentication and user management with easy MVP setup
 - **[Firebase Anonymous Auth](https://firebase.google.com/docs/auth/web/anonymous-auth)** - Quick setup for user tracking without full sign-up
 - **[Firebase Auth](https://firebase.google.com/products/auth)** - Simple authentication with social login support
 - **[Magic Link](https://magic.link/)** - Passwordless login with email, frictionless user authentication
@@ -120,8 +117,8 @@ The highest-scoring additions (9/10). Start here when the clock is running:
 ### Blockchain & Web3
 - **[Alchemy](https://www.alchemy.com/)** - Easy-to-use platform for blockchain APIs and developer tools
 - **[Infura](https://infura.io/)** - API for connecting to Ethereum blockchain with free transactions
-- **[MetaMask](https://metamask.io/)** - Browser extension for managing blockchain wallets and DApps
-- **[Moralis](https://moralis.io/)** - Web3 backend with APIs, user authentication, and data storage
+- **[MetaMask](https://metamask.com/)** - Browser extension for managing blockchain wallets and DApps
+- **[Moralis](https://moralis.com/)** - Web3 backend with APIs, user authentication, and data storage
 - **[Remix IDE](https://remix.ethereum.org/)** - Browser-based Solidity IDE for smart contracts
 
 ### Browser Extensions & Dev Tools
@@ -135,7 +132,7 @@ The highest-scoring additions (9/10). Start here when the clock is running:
 - **[Discord](https://discord.com/)** - Voice, video, and chat communication for team discussions
 - **[HackMD](https://hackmd.io/)** - Real-time markdown collaboration tool for documentation
 - **[Miro](https://miro.com/)** - Interactive whiteboard for brainstorming and visual planning
-- **[Notion](https://www.notion.so/)** - Workspace for organizing notes, ideas, and tasks
+- **[Notion](https://www.notion.com/)** - Workspace for organizing notes, ideas, and tasks
 - **[Slack](https://slack.com/)** - Communication tool with channels for team coordination
 - **[Trello](https://trello.com/)** - Kanban-style board for task tracking
 
@@ -152,17 +149,15 @@ The highest-scoring additions (9/10). Start here when the clock is running:
 - **[Wireshark](https://www.wireshark.org/)** - Network protocol analyzer for debugging
 
 ### Data Engineering & Analytics
-- **[Apache Kafka on Confluent Cloud](https://www.confluent.io/confluent-cloud/tryfree/)** - Free tier for real-time data streaming
 - **[DBeaver Community](https://dbeaver.io/)** - Open-source database management tool
-- **[Fivetran Free Tier](https://www.fivetran.com/pricing)** - Managed connectors for data integration
-- **[Google BigQuery Sandbox](https://cloud.google.com/bigquery/docs/sandbox)** - Free data warehouse with SQL
+- **[Google BigQuery Sandbox](https://docs.cloud.google.com/bigquery/docs/sandbox)** - Free data warehouse with SQL
 - **[Kaggle Datasets](https://www.kaggle.com/datasets)** - Access open datasets for data-driven MVPs
 - **[Looker Studio](https://lookerstudio.google.com/)** - Free data visualization for dashboards
 - **[Pandas Profiling](https://pandas-profiling.ydata.ai/)** - Auto-generate data analysis reports
 
 ### Data Visualization
 - **[Chart.js](https://www.chartjs.org/)** - Lightweight JavaScript library for frontend charts
-- **[Draw.io](https://www.diagrams.net/)** - Open-source diagramming tool with Google Drive integration
+- **[Draw.io](https://www.drawio.com/)** - Open-source diagramming tool with Google Drive integration
 - **[Google Charts](https://developers.google.com/chart)** - Simple API for website data visualizations
 - **[Plotly](https://plotly.com/)** - Interactive graphing for data visualization in Python
 - **[Tableau Public](https://public.tableau.com/)** - Free version for interactive, shareable dashboards
@@ -172,7 +167,6 @@ The highest-scoring additions (9/10). Start here when the clock is running:
 - **[Airtable](https://airtable.com/)** - Easy-to-use database with spreadsheet interface
 - **[Firebase Firestore](https://firebase.google.com/products/firestore)** - Realtime NoSQL database with offline sync
 - **[MongoDB Atlas](https://www.mongodb.com/cloud/atlas)** - Managed NoSQL database with free tier
-- **[PlanetScale](https://planetscale.com/)** - Serverless MySQL database with free tier
 - **[Prisma Postgres](https://www.prisma.io/postgres)** - Managed PostgreSQL with free plan and zero cold starts
 - **[Supabase](https://supabase.com/)** - Open-source Firebase alternative with instant SQL database
 
@@ -181,7 +175,6 @@ The highest-scoring additions (9/10). Start here when the clock is running:
 - **[Cloudflare Workers](https://developers.cloudflare.com/workers/)** - Serverless compute at the edge
 - **[deed.page](https://deed.page/)** - Publish a static demo to a permanent HTTPS URL with one `curl` PUT, no account; free plan, MCP server for AI agents
 - **[GitHub Pages](https://pages.github.com/)** - Free hosting for static websites
-- **[Glitch](https://glitch.com/)** - In-browser IDE for deploying Node.js apps instantly
 - **[Google Cloud Functions Free Tier](https://cloud.google.com/functions/pricing)** - Serverless functions
 - **[Netlify](https://www.netlify.com/)** - Free static hosting with CI/CD from GitHub
 - **[Prisma Compute](https://www.prisma.io/compute)** - Host TypeScript apps next to Prisma Postgres, 1M requests/month free
@@ -189,7 +182,6 @@ The highest-scoring additions (9/10). Start here when the clock is running:
 - **[Vercel Serverless Functions](https://vercel.com/docs/concepts/functions/serverless-functions)** - Built-in serverless functions
 
 ### Design & UI/UX
-- **[Adobe XD Free](https://www.adobe.com/products/xd.html)** - Lightweight design tool for wireframes and prototypes
 - **[APPLORE](https://applore.app/app-icon-generator)** - Free app icon export in every iOS, Android and web size, no sign-up
 - **[Atlassian Design System](https://atlassian.design/design-system)** - Tokens, components and Figma libraries for Atlassian Forge apps (Codegeist and other Atlassian hackathons)
 - **[Blender](https://www.blender.org/)** - Free and open-source 3D computer graphics software
@@ -198,12 +190,10 @@ The highest-scoring additions (9/10). Start here when the clock is running:
 - **[Figma](https://www.figma.com/)** - Collaborative design tool for wireframes and prototypes
 - **[Filee](https://filee.sh)** - Free, open-source offline file converter for Windows, macOS and Linux: drag images, PDFs, docs, video or audio onto a format, no upload
 - **[GIMP](https://www.gimp.org/)** - Open-source image editor comparable to Photoshop
-- **[InVision Freehand](https://www.invisionapp.com/freehand)** - Digital whiteboard for brainstorming
 - **[Kdenlive](https://kdenlive.org/)** - Professional-grade, open-source video editor
-- **[LibreOffice](https://www.libreoffice.org/)** - Free, open-source office suite alternative
 - **[Pixilart](https://www.pixilart.com/)** - Free browser-based pixel art app
 - **[ProtoPie](https://www.protopie.io/)** - Intuitive prototyping tool for interactive mockups
-- **[v0](https://v0.dev/)** - Powerful tool for generating high-quality UIs and code
+- **[v0](https://v0.app/)** - Powerful tool for generating high-quality UIs and code
 - **[Whimsical](https://whimsical.com/)** - Drag-and-drop wireframing tool for quick prototyping
 
 ### Design Resources
@@ -213,11 +203,10 @@ The highest-scoring additions (9/10). Start here when the clock is running:
 
 #### Icons
 - **[FaviconDL](https://favicondl.com/)** - Free favicon extractor and no-key API: extract available ICO/PNG/SVG/Apple touch icons and preserve their original size when possible
-- **[Geist Icons](https://geist-ui.dev/en-us/components/icons)** - Collection of icons used across Vercel products
 - **[Its Hover](https://itshover.com)** - 260+ open-source animated React icons built with Motion
 - **[Lucide Icons](https://lucide.dev/)** - Beautiful & consistent icon toolkit by the community
 - **[Phosphor Icons](https://phosphoricons.com/)** - Versatile icon family for interfaces and diagrams
-- **[Radix Icons](https://icons.radix-ui.com/)** - Open-source component library for development
+- **[Radix Icons](https://www.radix-ui.com/icons)** - Crisp open-source 15×15 icon set from the Radix team
 - **[SVGicons](https://svgicons.com/)** - Search and preview open-source SVG icon sets, with copyable SVG and per-set license information
 
 #### Illustrations
@@ -225,14 +214,13 @@ The highest-scoring additions (9/10). Start here when the clock is running:
 - **[404 Illustrations (Kapwing)](https://www.kapwing.com/404-illustrations)** - Hand-crafted collection for 404 pages
 - **[Humaaans](https://www.humaaans.com)** - Mix-&-match illustrations of people
 - **[Open Peeps](https://www.openpeeps.com)** - Hand-drawn illustration library of people scenes
-- **[Popsy](https://popsy.co/illustrations)** - Biggest free Notion illustration set
 - **[SVG Illustrations](https://lukaszadam.com/illustrations)** - Free SVG Illustrations
 
 ### Frontend Development
 - **[Bootstrap](https://getbootstrap.com/)** - CSS framework with pre-designed responsive components
 - **[Next.js](https://nextjs.org/)** - Powers high-quality web apps leveraging React capabilities
 - **[Parcel](https://parceljs.org/)** - Zero-config bundler for quick app setup
-- **[React](https://reactjs.org/)** - JavaScript library with reusable components
+- **[React](https://react.dev/)** - JavaScript library with reusable components
 - **[SvelteKit](https://svelte.dev/)** - Fast and lightweight framework with minimal boilerplate
 - **[Tailwind CSS](https://tailwindcss.com/)** - Utility-based CSS framework for quick styling
 - **[Vue.js](https://vuejs.org/)** - Lightweight, beginner-friendly framework for dynamic UIs
@@ -251,13 +239,12 @@ The highest-scoring additions (9/10). Start here when the clock is running:
 
 #### Game Engines
 - **[Construct 3](https://www.construct.net/en)** - No-code game development platform with a free tier for building prototypes
-- **[Game Maker Studio](https://www.yoyogames.com/gamemaker)** - GameMaker Studio 2 is the latest and greatest incarnation of GameMaker
+- **[GameMaker](https://gamemaker.io/en)** - 2D game engine, free for non-commercial use
 - **[GDevelop](https://gdevelop.io/)** - No-code game creation tool with fast setup, suitable for quick prototypes
 - **[Godot](https://godotengine.org/)** - Open-source game engine, perfect for lightweight 2D and 3D games
 - **[Heaps](https://heaps.io/)** - Mature cross platform graphics engine designed for high performance games
 - **[PICO-8](https://www.lexaloffle.com/pico-8.php)** - Fantasy console that encourages small, but expressive designs
-- **[Unity](https://unity.com/)** - Robust and beginner-friendly game engine for indie developers
-- **[Unity Personal](https://unity.com/products/unity-personal)** - Free game engine for indie developers, ideal for cross-platform 2D/3D games
+- **[Unity](https://unity.com/)** - Beginner-friendly 2D/3D game engine with a free Personal plan
 - **[Unreal Engine](https://www.unrealengine.com/)** - Powerful engine with a steep learning curve, great for high-quality 3D games
 
 #### Frameworks
@@ -282,10 +269,9 @@ The highest-scoring additions (9/10). Start here when the clock is running:
 #### Audio Tools
 - **[Audacity](https://www.audacityteam.org/)** - Free, open source, cross-platform audio software
 - **[BeepBox](https://www.beepbox.co)** - Online tool for sketching and sharing instrumental melodies
-- **[bfxr](https://www.bfxr.net/)** - Flash + AIR sound effects generator
+- **[bfxr](https://www.bfxr.net/)** - Browser-based sound effects generator
 - **[Bosca Ceoil](https://boscaceoil.net/)** - Free, easy to use tool for creating music
-- **[cgMusic](http://maciej.codeminion.com/2008/05/cgmusic-computers-create-music/)** - Generate music with a certain level of quality
-- **[Famistudio](https://famistudio.org/)** - Very simple music editor for the SNES
+- **[FamiStudio](https://famistudio.org/)** - Simple music editor for NES/Famicom chiptunes
 - **[LMMS](https://lmms.io/)** - Free cross-platform alternative to commercial programs like FL Studio
 - **[MuseScore](https://musescore.org/)** - Create, play and print beautiful sheet music
 - **[sfxr](https://sfxr.me/)** - Dead easy game sound effects generator
@@ -295,25 +281,21 @@ The highest-scoring additions (9/10). Start here when the clock is running:
 
 #### Graphics & Art Tools
 - **[Aseprite](https://www.aseprite.org/)** - Animated sprite editor and pixel art tool
-- **[Blender](https://www.blender.org/)** - Open source 3D creation, free to use for any purpose
 - **[BulkPicTools](https://bulkpictools.com/)** - Free browser-based bulk image processor. Compress, convert (HEIC/WebP/AVIF/PNG/JPG), resize, crop, and watermark 1,000+ images at once — no upload, no account, works offline. Perfect for quickly optimizing demo screenshots and pitch deck assets.
-- **[Figma](https://www.figma.com/)** - Free vector graphics editor with collaborative editing
 - **[FireAlpaca](http://firealpaca.com/)** - Free digital painting software for Mac and Windows
-- **[GIMP](https://www.gimp.org/)** - Free and Open Source Image Editor
 - **[Inkscape](https://inkscape.org/)** - Free and open source vector graphics editor
 - **[Krita](https://krita.org/)** - Professional free and open source painting program
 - **[Lospec Pixel Editor](https://lospec.com/pixel-editor/)** - Free pixel art program in your web browser
 - **[Magicavoxel](https://www.voxelmade.com/magicavoxel/)** - Free lightweight 8-bit voxel editor and path tracing renderer
-- **[Paint.NET](https://www.getpaint.net/)** - Free image and photo editing software
+- **[Paint.NET](https://paint.net/)** - Free image and photo editing software
 - **[PiskelApp](https://www.piskelapp.com/)** - Free online editor for animated sprites & pixel art
 - **[Pixelorama](https://github.com/Orama-Interactive/Pixelorama)** - Free and open source pixel art editor with Godot-Engine
 - **[Pyxel Edit](https://pyxeledit.com/)** - Pixel art drawing application designed for working with tiles
-- **[ZBrush](https://pixologic.com/zbrush/trial/)** - Industry standard for digital sculpting and painting
 
 #### Color & Design Resources
 - **[Autodraw](https://www.autodraw.com/)** - Online tool to predict the placeholder images you need
 - **[BitFontMaker2](https://www.pentacom.jp/pentacom/bitfontmaker2/)** - Free online pixel font editor
-- **[Easy Releasy](https://jannikboysen.itch.io/easy-releasy)** - Template pack to create itch.io pages
+- **[Easy Releasy](https://lemoncosmos.itch.io/easy-releasy)** - Template pack to create itch.io pages
 - **[Flat UI Colors 2](https://flatuicolors.com/)** - 280 handpicked colors split into 13 palettes
 - **[Lospec Color Palette](https://lospec.com/palette-list)** - Searchable collection of palettes for pixel art
 - **[Removebg](https://www.remove.bg/)** - Remove backgrounds automatically in 5 seconds
@@ -324,18 +306,12 @@ The highest-scoring additions (9/10). Start here when the clock is running:
 #### Game Design & Management
 - **[Lunacy](https://icons8.com/lunacy)** - Free design alternative to Figma
 - **[Machinations](https://machinations.io/)** - Free online tool to prototype the internal economy of your game
-- **[Miro](https://miro.com/)** - Free online tool with infinite canvas to sketch and design prototypes
-- **[Pomofocus](https://pomofocus.io/)** - Combines tasks with a pomodoro timer
 - **[PureRef](https://www.pureref.com/)** - Free stand-alone program that keeps track of your reference images
-- **[Toggl Track](https://toggl.com/track/)** - Free time tracking for any workflow
-- **[TomatoTimer](https://tomato-timer.com/)** - A pomodoro timer that is dead easy to use
 
 #### Game Hosting & Marketing
-- **[Chronolapse](https://www.chronolapse.com/)** - Easily create your own timelapse videos
 - **[DeepMotion](https://www.deepmotion.com/)** - Text to 3D animation and Video to 3D animation app
 - **[itch.io](https://itch.io/)** - Simple way to share indie games online for free
-- **[Screen2Gif](https://www.screentogif.com/)** - Screen, webcam and sketchboard recorder with gif export
-- **[Stability.ai](https://stability.ai/)** - For stable models
+- **[ScreenToGif](https://github.com/NickeManarin/ScreenToGif)** - Screen, webcam and sketchboard recorder with gif export
 
 ### Generators & Snippets
 - **[bg.ibelick](https://bg.ibelick.com)** - Collection of modern background snippets
@@ -349,16 +325,11 @@ The highest-scoring additions (9/10). Start here when the clock is running:
 
 ### Inspiration & Ideas
 - **[CodeTrendy](https://codetrendy.com/)** - Curated directory of newly launched startups, SaaS and AI tools to browse for project ideas, with a free read-only MCP server
-- **[Evernote Design](https://evernote.design/)** - All-in-one bookmark links for designers
 - **[HACKERS](https://hackers.pocketplay.win/en/)** - Live Devpost hackathons and Kaggle competitions ranked by a beginner score, with deadlines and first-timer guides
 - **[Landbook](https://land-book.com/)** - Hand-picked website design gallery, filterable by page type and industry
 - **[Saaspo](https://saaspo.com/)** - Best SaaS web design inspiration
 - **[saasui.design](https://saasui.design/)** - Top-tier SaaS application designs showcase
-- **[SCRNSHTS](https://scrnshts.club/)** - Hand-picked collection of app store design screenshots
-- **[Unarkhive](https://unarkhive.com/)** - Curated links across various categories, updated daily
-
-### LLM Models/Tools/Services
-- **[YouLearn.AI](https://www.youlearn.ai)** - AI-powered learning platform for document analysis and Q&A
+- **[ScreensDesign (formerly SCRNSHTS)](https://screensdesign.com/store-screenshots/)** - Hand-picked collection of app store design screenshots
 
 ### MCP Servers/Tools
 - **[GhidraMCP](https://github.com/LaurieWired/GhidraMCP)** - Model Context Protocol server for LLM reverse engineering
@@ -374,7 +345,7 @@ The highest-scoring additions (9/10). Start here when the clock is running:
 
 ### Pitch & Demo
 - **[ElevenLabs](https://elevenlabs.io)** - AI voiceover for demo videos when nobody on the team wants to narrate
-- **[Google Slides](https://www.google.com/slides/about/)** - Collaborative pitch deck the whole team can edit at once
+- **[Google Slides](https://workspace.google.com/products/slides/)** - Collaborative pitch deck the whole team can edit at once
 
 ### Project Starters & Boilerplates
 - **[Hackathon Starter](https://github.com/sahat/hackathon-starter)** - Node.js web application boilerplate with auth and APIs
@@ -385,12 +356,6 @@ The highest-scoring additions (9/10). Start here when the clock is running:
 - **[Mockoon](https://mockoon.com/)** - Mock API server to simulate APIs for testing
 - **[Postman](https://www.postman.com/)** - API testing tool with intuitive interface
 - **[Selenium IDE](https://www.selenium.dev/selenium-ide/)** - Browser extension for creating UI tests
-
-### VPN & Privacy
-- **[1.1.1.1](https://one.one.one.one)** - Free, public DNS resolver from Cloudflare and APNIC
-- **[BrowsecVPN](https://browsec.com/en/=and)** - Free Chrome/Mozilla VPN Extension
-- **[ProtonVPN](https://protonvpn.com)** - Free VPN for Win/Mac/Linux
-- **[TouchVPN](https://www.touchvpn.net)** - Free Chrome/Mozilla VPN Extension
 
 ---
 ## Related Awesome Lists
