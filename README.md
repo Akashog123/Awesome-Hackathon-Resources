@@ -27,17 +27,18 @@
 
 ## ⭐ Curator's Picks
 
-The highest scorers across the whole list (50 entries score 9 or 10). If the clock is running, start here:
+Hand-picked from the 50 entries that score 9 or 10, one row per job. Each pick was checked on 2026-11-15: the link is live, the free plan or open-source license is confirmed, and the project was updated in the last 4 months. If the clock is running, start here:
 
 | When you need to… | Pick |
 |---|---|
 | **Ideate** | [Kaggle Datasets](https://www.kaggle.com/datasets) `9` · [Public APIs](https://github.com/public-apis/public-apis) `9` |
 | **Add AI** | [Google AI Studio](https://aistudio.google.com/) `10` · [Gradio](https://www.gradio.app/) `10` · [OpenRouter](https://openrouter.ai/) `9` · [Ollama](https://ollama.com/) `9` |
 | **Build the app** | [Shadcn UI](https://ui.shadcn.com/) `10` · [Supabase](https://supabase.com/) `9` · [Next.js](https://nextjs.org/) `9` · [Tailwind CSS](https://tailwindcss.com/) `9` |
-| **Ship it live** | [Vercel](https://vercel.com/) `10` · [Render](https://render.com/) `9` · [Expo (React Native)](https://expo.dev/) `10` |
+| **Ship it live** | [Vercel](https://vercel.com/) `10` · [Render](https://render.com/) `9` |
+| **Go mobile** | [Expo (React Native)](https://expo.dev/) `10` |
 | **Make it look designed** | [Hallmark](https://usehallmark.com) `9` · [Excalidraw](https://excalidraw.com/) `9` · [Lucide Icons](https://lucide.dev/) `9` · [Magic UI](https://magicui.design) `9` |
 | **Game jams** | [itch.io](https://itch.io/) `10` · [Godot](https://godotengine.org/) `9` · [Phaser](https://phaser.io/) `9` · [LDtk](https://ldtk.io/) `9` · [BeepBox](https://www.beepbox.co) `9` |
-| **Demo and pitch** | [Stripe test mode](https://docs.stripe.com/testing) `10` · [OBS Studio](https://obsproject.com/) `9` · [ScreenToGif](https://github.com/NickeManarin/ScreenToGif) `9` |
+| **Demo and pitch** | [Stripe test mode](https://docs.stripe.com/testing) `10` · [OBS Studio](https://obsproject.com/) `9` · [ScreenToGif](https://github.com/NickeManarin/ScreenToGif) `9` (Windows) |
 
 ## Table of Contents
 
@@ -173,7 +174,7 @@ The highest scorers across the whole list (50 entries score 9 or 10). If the clo
 - **[MongoDB Atlas](https://www.mongodb.com/cloud/atlas)** 🟡 `8` - Managed NoSQL database with free tier
 - **[Neon](https://neon.com/)** 🟢 `9` - Serverless Postgres with instant branching, free plan with no card
 - **[Prisma Postgres](https://www.prisma.io/postgres)** ⚪ `6` - Managed PostgreSQL with free plan and zero cold starts
-- **[Supabase](https://supabase.com/)** 🟢 `9` - Postgres with auth, storage, realtime and auto-generated APIs; free plan
+- **[Supabase](https://supabase.com/)** 🟢 `9` - Postgres with auth, storage, realtime and auto-generated APIs; free plan (free projects pause when inactive)
 - **[Turso](https://turso.tech/)** 🟡 `8` - Edge SQLite (libSQL) databases, free plan with 100 databases and no card
 
 ### Deployment & Hosting
@@ -185,7 +186,7 @@ The highest scorers across the whole list (50 entries score 9 or 10). If the clo
 - **[Netlify](https://www.netlify.com/)** 🟡 `8` - Free static hosting with CI/CD from GitHub
 - **[Prisma Compute](https://www.prisma.io/compute)** ⚪ `5` - Host TypeScript apps next to Prisma Postgres, 1M requests/month free
 - **[Render](https://render.com/)** 🟢 `9` - Deploy web services, Postgres and static sites from a Git repo; free instances sleep when idle
-- **[Vercel](https://vercel.com/)** 🟢 `10` - One-click deployment with auto scaling and global CDN
+- **[Vercel](https://vercel.com/)** 🟢 `10` - Deploy frontends and serverless APIs from Git with preview URLs; free Hobby plan, and `vercel deploy --temporary` works without an account
 - **[Vercel Serverless Functions](https://vercel.com/docs/concepts/functions/serverless-functions)** ⚪ `6` - Built-in serverless functions
 
 ### Design & UI/UX
@@ -322,7 +323,7 @@ The highest scorers across the whole list (50 entries score 9 or 10). If the clo
 #### Game Hosting & Marketing
 - **[DeepMotion](https://www.deepmotion.com/)** ⚪ `6` - Text to 3D animation and Video to 3D animation app
 - **[itch.io](https://itch.io/)** 🟢 `10` - Simple way to share indie games online for free
-- **[ScreenToGif](https://github.com/NickeManarin/ScreenToGif)** 🟢 `9` - Screen, webcam and sketchboard recorder with gif export
+- **[ScreenToGif](https://github.com/NickeManarin/ScreenToGif)** 🟢 `9` - Windows-only screen, webcam and sketchboard recorder with GIF and video export
 
 ### Generators & Snippets
 - **[bg.ibelick](https://bg.ibelick.com)** 🟡 `8` - Collection of modern background snippets

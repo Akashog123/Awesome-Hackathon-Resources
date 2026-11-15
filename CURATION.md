@@ -132,6 +132,13 @@ Free tiers were checked on each pricing page, and OSS activity via GitHub (all p
 
 **Descriptions rewritten** to say what the tool does and what it costs: Cursor, OpenAI API (now marked paid), Firebase Functions (needs Blaze plan), ydata-profiling (renamed from Pandas Profiling), Supabase, AWS Lambda, Cloudflare Workers, v0, Next.js, gbdk-2020, Autodraw, React Native.
 
+### 2026-11-15 · Curator's Picks verification
+
+Every pick was re-checked rather than taken from its score:
+- **Open source** (Shadcn UI, Next.js, Tailwind CSS, Supabase, Expo, Excalidraw, Lucide, Magic UI, Godot, Phaser, LDtk, BeepBox, Gradio, Ollama, Public APIs, ScreenToGif, OBS Studio, Hallmark): none archived, all pushed between Aug and Nov 2026, all MIT, ISC, Apache-2.0, GPL-2.0 or MS-PL.
+- **Hosted, checked on pricing pages:** Vercel Hobby is free and can deploy without an account; Supabase has a free plan whose projects pause when inactive; Expo SDK is MIT and its free plan includes 15 Android and 15 iOS builds; itch.io lets you set a $0 price; Kaggle Datasets are free; Google AI Studio, OpenRouter and Stripe test mode were verified earlier.
+- **Fixes:** Expo moved from "Ship it live" to its own "Go mobile" row; ScreenToGif marked Windows-only; the intro now says the picks are hand-picked from the 9–10 scorers rather than "the highest scorers".
+
 ## Watchlist
 
 - **[ascii-reveal](https://github.com/quanhoangindex/ascii-reveal)** - Character-grid decode effect for React loading states. Promote once it has more users and releases.
