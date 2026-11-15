@@ -3,7 +3,7 @@
   <img src="img/banner.svg" alt="Awesome Hackathon Resources" width="1280" />
 </p>
 
-Tools and resources to help you build, design, and win hackathons! 🏆
+Tools and resources for hackathon participants to build, design, demo and win! 🏆
 
 Every entry is checked against [CURATION.md](CURATION.md): it must be live, free to use, not a duplicate and useful in a time-boxed build. Then it is scored on speed, cost, demo impact, maturity and fit.
 
@@ -55,17 +55,10 @@ The highest-scoring additions (9/10). Start here when the clock is running:
 20. [LLM Models/Tools/Services](#llm-modelstoolsservices)
 21. [MCP Servers/Tools](#mcp-serverstools)
 22. [Mobile Development](#mobile-development)
-23. [Project Starters & Boilerplates](#project-starters--boilerplates)
-24. [Testing & Quality Assurance](#testing--quality-assurance)
-25. [VPN & Privacy](#vpn--privacy)
-
-### For Hackathon Organizers 🎯📋
-1. [Communication & Coordination](#communication--coordination)
-2. [Event Documentation & Collaboration](#event-documentation--collaboration)
-3. [Participant Resources & Inspiration](#participant-resources--inspiration)
-4. [Presentation & Demo Tools](#presentation--demo-tools)
-5. [Project Management & Tracking](#project-management--tracking)
-6. [Quick Deployment & Hosting for Demos](#quick-deployment--hosting-for-demos)
+23. [Pitch & Demo](#pitch--demo)
+24. [Project Starters & Boilerplates](#project-starters--boilerplates)
+25. [Testing & Quality Assurance](#testing--quality-assurance)
+26. [VPN & Privacy](#vpn--privacy)
 
 ### More
 - [Related Awesome Lists](#related-awesome-lists)
@@ -357,6 +350,7 @@ The highest-scoring additions (9/10). Start here when the clock is running:
 ### Inspiration & Ideas
 - **[CodeTrendy](https://codetrendy.com/)** - Curated directory of newly launched startups, SaaS and AI tools to browse for project ideas, with a free read-only MCP server
 - **[Evernote Design](https://evernote.design/)** - All-in-one bookmark links for designers
+- **[HACKERS](https://hackers.pocketplay.win/en/)** - Live Devpost hackathons and Kaggle competitions ranked by a beginner score, with deadlines and first-timer guides
 - **[Landbook](https://land-book.com/)** - Hand-picked website design gallery, filterable by page type and industry
 - **[Saaspo](https://saaspo.com/)** - Best SaaS web design inspiration
 - **[saasui.design](https://saasui.design/)** - Top-tier SaaS application designs showcase
@@ -378,6 +372,10 @@ The highest-scoring additions (9/10). Start here when the clock is running:
 - **[Ionic](https://ionicframework.com/)** - Hybrid app framework using web technologies
 - **[React Native](https://reactnative.dev/)** - Hard setup but advanced cross-platform mobile development
 
+### Pitch & Demo
+- **[ElevenLabs](https://elevenlabs.io)** - AI voiceover for demo videos when nobody on the team wants to narrate
+- **[Google Slides](https://www.google.com/slides/about/)** - Collaborative pitch deck the whole team can edit at once
+
 ### Project Starters & Boilerplates
 - **[Hackathon Starter](https://github.com/sahat/hackathon-starter)** - Node.js web application boilerplate with auth and APIs
 
@@ -395,42 +393,6 @@ The highest-scoring additions (9/10). Start here when the clock is running:
 - **[TouchVPN](https://www.touchvpn.net)** - Free Chrome/Mozilla VPN Extension
 
 ---
-
-## For Hackathon Organizers 🎯📋
-
-### Communication & Coordination
-- **[Discord](https://discord.com/)** - Voice, video, and chat for participant communication
-- **[Slack](https://slack.com/)** - Organized channels for team coordination and announcements
-
-### Event Documentation & Collaboration
-- **[Coda](https://coda.io/)** - Document tool for project tracking and event organization
-- **[HackMD](https://hackmd.io/)** - Real-time markdown collaboration for documentation
-- **[Notion](https://www.notion.so/)** - Comprehensive workspace for organizing event information
-
-### Participant Resources & Inspiration
-- **[Evernote Design](https://evernote.design/)** - Curated design resources for participants
-- **[HACKERS](https://hackers.pocketplay.win/en/)** - Live Devpost hackathons and Kaggle competitions ranked by a transparent beginner score, with deadlines and first-timer guides
-- **[Kaggle Datasets](https://www.kaggle.com/datasets)** - Open datasets for data-driven projects
-- **[RapidAPI](https://rapidapi.com/)** - API marketplace for finding external APIs
-
-### Presentation & Demo Tools
-- **[Canva](https://www.canva.com/)** - Easy-to-use design tool for presentation templates
-- **[ElevenLabs](https://elevenlabs.io)** - AI audio platform for creating realistic speech
-- **[Google Slides](https://www.google.com/slides/about/)** - Collaborative presentation tool
-- **[LibreOffice Impress](https://www.libreoffice.org/discover/impress/)** - Free presentation creation tool
-
-### Project Management & Tracking
-- **[Miro](https://miro.com/)** - Interactive whiteboard for planning and visual collaboration
-- **[Trello](https://trello.com/)** - Kanban-style boards for tracking team progress
-
-### Quick Deployment & Hosting for Demos
-- **[GitHub Pages](https://pages.github.com/)** - Free hosting for static project demos
-- **[Glitch](https://glitch.com/)** - Quick deployment for live project demonstrations <-- Deprecated
-- **[Netlify](https://www.netlify.com/)** - Easy hosting with CI/CD for participant projects
-- **[Vercel](https://vercel.com/)** - One-click deployment for frontend project demos
-
----
-
 ## Related Awesome Lists
 - **[awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness)** - Curated list of awesome lists, grouped by language and topic
 - **[awesome-rust: Audio and Music](https://github.com/rust-unofficial/awesome-rust#audio-and-music)** - Rust audio apps and libraries (cpal, rodio, Symphonia) for game jams and audio hacks

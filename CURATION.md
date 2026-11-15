@@ -9,7 +9,7 @@ How a resource gets into (or out of) this list. Every addition, removal and revi
 | **Live** | URL loads and the product works today |
 | **Usable free** | Open source, or a free tier usable without a credit card |
 | **Not a duplicate** | Not already listed. A near-clone of a listed tool must state what it does differently |
-| **Hackathon-relevant** | Helps someone build, design, demo, or run a time-boxed event |
+| **Participant-relevant** | Helps a hackathon participant build, design, or demo within the event. Organizer-only tools are out of scope |
 
 ## 2. Score (0–2 each, max 10)
 
