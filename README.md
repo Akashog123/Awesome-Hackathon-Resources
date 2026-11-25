@@ -152,6 +152,7 @@
 - **[Canva](https://www.canva.com/)** 🟡 `8` - Simple design tool with templates for mockups and presentations
 - **[Draw.io](https://www.drawio.com/)** 🟡 `8` - Open-source diagramming tool with Google Drive integration
 - **[Filee](https://filee.sh)** 🟡 `8` - Free, open-source offline file converter for Windows, macOS and Linux: drag images, PDFs, docs, video or audio onto a format, no upload
+- **[Kite](https://kite.new/)** 🟡 `8` - Browser design tool where your team and AI agents (Claude, Cursor, Codex via MCP) edit the same file; copy frames as HTML, React or Tailwind to ship a demo UI fast
 - **[Penpot](https://penpot.app/)** 🟡 `8` - Open-source design platform and Figma alternative, free to use and self-hostable
 - **[Atlassian Design System](https://atlassian.design/design-system)** 🟡 `7` - Tokens, components and Figma libraries for apps that should look native in Atlassian products (Forge's UI Kit uses the same look)
 - **[Blender](https://www.blender.org/)** 🟡 `7` - Free and open-source 3D computer graphics software
